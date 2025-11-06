@@ -7,37 +7,7 @@
       "active": true
     }
   ],
-  "products": [
-    {
-      "id": "1762470728802",
-      "name": "ديفرانز",
-      "colors": [
-        {
-          "name": "تا",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 4
-        }
-      ],
-      "sizes": [
-        {
-          "name": "سق",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 3
-        }
-      ],
-      "lengths": [
-        {
-          "name": "صث",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 3
-        }
-      ],
-      "createdAt": "2025-11-06T23:12:08.802Z"
-    }
-  ],
+  "products": [],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -47,5 +17,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T23:13:01.084Z"
+  "last_updated": "2025-11-06T23:13:17.866Z"
 }
