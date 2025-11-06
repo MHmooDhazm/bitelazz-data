@@ -17,6 +17,12 @@
       "name": "البائع 2",
       "role": "seller",
       "active": true
+    },
+    {
+      "id": "4444",
+      "name": "مصطفي",
+      "role": "seller",
+      "active": true
     }
   ],
   "products": [],
@@ -29,5 +35,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T21:02:46.856Z"
+  "last_updated": "2025-11-06T21:04:00.323Z"
 }
