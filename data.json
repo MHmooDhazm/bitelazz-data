@@ -7,37 +7,7 @@
       "active": true
     }
   ],
-  "products": [
-    {
-      "id": "1762465776756",
-      "name": "ديفرانز",
-      "colors": [
-        {
-          "name": "ابيض",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 2
-        }
-      ],
-      "sizes": [
-        {
-          "name": "100",
-          "cost_price": 500,
-          "sale_price": 700,
-          "quantity": 4
-        }
-      ],
-      "lengths": [
-        {
-          "name": "195",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 2
-        }
-      ],
-      "createdAt": "2025-11-06T21:49:36.756Z"
-    }
-  ],
+  "products": [],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -47,5 +17,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T22:17:54.538Z"
+  "last_updated": "2025-11-06T22:18:09.115Z"
 }
