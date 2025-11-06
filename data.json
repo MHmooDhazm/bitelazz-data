@@ -7,12 +7,6 @@
       "active": true
     },
     {
-      "id": "2233",
-      "name": "مصطفي",
-      "role": "seller",
-      "active": true
-    },
-    {
       "id": "4433",
       "name": "عبدالله",
       "role": "seller",
@@ -59,5 +53,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T23:24:13.338Z"
+  "last_updated": "2025-11-06T23:24:47.242Z"
 }
