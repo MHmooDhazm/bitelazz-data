@@ -7,12 +7,6 @@
       "active": true
     },
     {
-      "id": "1234",
-      "name": "البائع 1",
-      "role": "seller",
-      "active": true
-    },
-    {
       "id": "5678",
       "name": "البائع 2",
       "role": "seller",
@@ -29,5 +23,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T21:04:58.325Z"
+  "last_updated": "2025-11-06T21:05:06.084Z"
 }
