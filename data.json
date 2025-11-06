@@ -5,12 +5,6 @@
       "name": "الأدمن",
       "role": "admin",
       "active": true
-    },
-    {
-      "id": "2233",
-      "name": "مصطفي 2",
-      "role": "seller",
-      "active": true
     }
   ],
   "products": [],
@@ -23,5 +17,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T21:43:00.772Z"
+  "last_updated": "2025-11-06T21:43:10.523Z"
 }
