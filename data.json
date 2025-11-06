@@ -11,6 +11,12 @@
       "name": "مصطفي",
       "role": "seller",
       "active": true
+    },
+    {
+      "id": "4433",
+      "name": "عبدالله",
+      "role": "seller",
+      "active": true
     }
   ],
   "products": [],
@@ -23,5 +29,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T23:23:05.581Z"
+  "last_updated": "2025-11-06T23:23:35.618Z"
 }
