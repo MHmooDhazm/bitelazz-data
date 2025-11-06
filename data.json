@@ -19,37 +19,7 @@
       "active": true
     }
   ],
-  "products": [
-    {
-      "id": "1762469831682",
-      "name": "ديفرانز",
-      "colors": [
-        {
-          "name": "ج اسود",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 2
-        }
-      ],
-      "sizes": [
-        {
-          "name": "100",
-          "cost_price": 2880,
-          "sale_price": 3200,
-          "quantity": 2
-        }
-      ],
-      "lengths": [
-        {
-          "name": "195",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 2
-        }
-      ],
-      "createdAt": "2025-11-06T22:57:11.682Z"
-    }
-  ],
+  "products": [],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -59,5 +29,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-06T23:08:57.136Z"
+  "last_updated": "2025-11-06T23:09:02.850Z"
 }
