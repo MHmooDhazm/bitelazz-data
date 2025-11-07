@@ -60,13 +60,10 @@
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
-    "chat_id": "1142088170",
+    "chat_id": "7292128411",
     "sale_notifications": true,
     "product_updates": true,
-    "stock_alerts": true,
-    "bot_enabled": false,
-    "bot_token": "",
-    "bot_chat_id": ""
+    "stock_alerts": true
   },
-  "last_updated": "2025-11-07T01:27:57.616Z"
+  "last_updated": "2025-11-07T01:30:31.643Z"
 }
