@@ -13,7 +13,38 @@
       "active": true
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "id": "1762542165756",
+      "name": "محمود",
+      "base_price": 0,
+      "colors": [
+        {
+          "name": "Hhh",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 66
+        }
+      ],
+      "sizes": [
+        {
+          "name": "Hhj",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 56
+        }
+      ],
+      "lengths": [
+        {
+          "name": "Ikk",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 666
+        }
+      ],
+      "createdAt": "2025-11-07T19:02:45.756Z"
+    }
+  ],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -24,5 +55,5 @@
     "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-07T19:01:49.964Z"
+  "last_updated": "2025-11-07T19:02:45.763Z"
 }
