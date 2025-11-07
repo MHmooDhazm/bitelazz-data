@@ -7,12 +7,6 @@
       "active": true
     },
     {
-      "id": "123",
-      "name": "محمود",
-      "role": "seller",
-      "active": true
-    },
-    {
       "id": "2233",
       "name": "مصطفي",
       "role": "seller",
@@ -83,5 +77,5 @@
     "report_time": "18:00"
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-07T19:20:39.209Z"
+  "last_updated": "2025-11-07T19:20:45.434Z"
 }
