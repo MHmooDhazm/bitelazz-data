@@ -66,16 +66,11 @@
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
-    "chat_id": "7292128411",
+    "chat_id": "1142088170",
     "sale_notifications": true,
     "product_updates": true,
-    "stock_alerts": true,
-    "bot_enabled": false,
-    "bot_token": "",
-    "bot_chat_id": "",
-    "report_frequency": "daily",
-    "report_time": "18:00"
+    "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-07T19:21:07.903Z"
+  "last_updated": "2025-11-07T19:23:00.028Z"
 }
