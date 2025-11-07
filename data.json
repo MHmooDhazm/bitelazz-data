@@ -23,6 +23,12 @@
       "name": "ممم",
       "role": "seller",
       "active": true
+    },
+    {
+      "id": "123",
+      "name": "مصطفي",
+      "role": "seller",
+      "active": true
     }
   ],
   "products": [
@@ -65,5 +71,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-07T01:30:31.643Z"
+  "last_updated": "2025-11-07T01:31:04.100Z"
 }
