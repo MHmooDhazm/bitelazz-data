@@ -56,35 +56,6 @@
       "createdAt": "2025-11-06T22:57:11.682Z"
     },
     {
-      "id": "1762479171940",
-      "name": "محمود",
-      "colors": [
-        {
-          "name": "خخم",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 5
-        }
-      ],
-      "sizes": [
-        {
-          "name": "ةتت",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 895
-        }
-      ],
-      "lengths": [
-        {
-          "name": "ااا",
-          "cost_price": 0,
-          "sale_price": 0,
-          "quantity": 565
-        }
-      ],
-      "createdAt": "2025-11-07T01:32:51.940Z"
-    },
-    {
       "id": "1762465776756",
       "name": "ديفرانز",
       "colors": [
@@ -171,5 +142,5 @@
     "report_time": "18:00"
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-07T19:20:24.858Z"
+  "last_updated": "2025-11-07T19:20:28.261Z"
 }
