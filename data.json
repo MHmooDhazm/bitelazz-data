@@ -302,6 +302,48 @@
       "total": 7300,
       "timestamp": "2025-11-07T21:19:19.895Z",
       "status": "completed"
+    },
+    {
+      "invoice_number": "INV-375527",
+      "seller_id": "2233",
+      "seller_name": "مصطفي",
+      "customerName": "اسامه",
+      "customerPhone": "01012395600",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1762549998031",
+          "productName": "ديفرانز",
+          "basePrice": 0,
+          "selectedColor": {
+            "name": "جنب ابيض",
+            "cost_price": 0,
+            "sale_price": 0,
+            "quantity": 2
+          },
+          "selectedSize": {
+            "name": "120",
+            "cost_price": 3100,
+            "sale_price": 3700,
+            "quantity": 2
+          },
+          "selectedLength": {
+            "name": "195",
+            "cost_price": 0,
+            "sale_price": 0,
+            "quantity": 3
+          },
+          "additionalPrice": 3700,
+          "finalPrice": 3700,
+          "quantity": 2,
+          "totalPrice": 7400
+        }
+      ],
+      "originalTotal": 7400,
+      "discount": 100,
+      "total": 7300,
+      "timestamp": "2025-11-07T21:19:35.527Z",
+      "status": "completed"
     }
   ],
   "settings": {
@@ -312,6 +354,49 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "permanent_invoices": [],
-  "last_updated": "2025-11-07T21:19:20.697Z"
+  "permanent_invoices": [
+    {
+      "invoice_number": "INV-359895",
+      "seller_id": "2233",
+      "seller_name": "مصطفي",
+      "customerName": "اسامه",
+      "customerPhone": "01012395600",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1762549998031",
+          "productName": "ديفرانز",
+          "basePrice": 0,
+          "selectedColor": {
+            "name": "جنب ابيض",
+            "cost_price": 0,
+            "sale_price": 0,
+            "quantity": 2
+          },
+          "selectedSize": {
+            "name": "120",
+            "cost_price": 3100,
+            "sale_price": 3700,
+            "quantity": 2
+          },
+          "selectedLength": {
+            "name": "195",
+            "cost_price": 0,
+            "sale_price": 0,
+            "quantity": 3
+          },
+          "additionalPrice": 3700,
+          "finalPrice": 3700,
+          "quantity": 2,
+          "totalPrice": 7400
+        }
+      ],
+      "originalTotal": 7400,
+      "discount": 100,
+      "total": 7300,
+      "timestamp": "2025-11-07T21:19:19.895Z",
+      "status": "completed"
+    }
+  ],
+  "last_updated": "2025-11-07T21:19:35.596Z"
 }
