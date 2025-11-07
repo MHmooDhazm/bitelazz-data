@@ -42,6 +42,35 @@
         }
       ],
       "createdAt": "2025-11-06T22:57:11.682Z"
+    },
+    {
+      "id": "1762479171940",
+      "name": "محمود",
+      "colors": [
+        {
+          "name": "خخم",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 6
+        }
+      ],
+      "sizes": [
+        {
+          "name": "ةتت",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 896
+        }
+      ],
+      "lengths": [
+        {
+          "name": "ااا",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 566
+        }
+      ],
+      "createdAt": "2025-11-07T01:32:51.940Z"
     }
   ],
   "sales": [],
@@ -53,5 +82,5 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-07T01:31:55.897Z"
+  "last_updated": "2025-11-07T01:32:51.951Z"
 }
