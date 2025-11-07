@@ -82,5 +82,6 @@
     "product_updates": true,
     "stock_alerts": true
   },
-  "last_updated": "2025-11-07T01:32:51.951Z"
+  "permanent_invoices": [],
+  "last_updated": "2025-11-07T19:00:50.106Z"
 }
