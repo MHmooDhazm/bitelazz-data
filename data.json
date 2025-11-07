@@ -17,12 +17,6 @@
       "name": "عبدالله",
       "role": "seller",
       "active": true
-    },
-    {
-      "id": "1111",
-      "name": "احمس",
-      "role": "seller",
-      "active": true
     }
   ],
   "products": [
@@ -446,5 +440,5 @@
       "status": "completed"
     }
   ],
-  "last_updated": "2025-11-07T21:24:37.594Z"
+  "last_updated": "2025-11-07T21:25:58.529Z"
 }
