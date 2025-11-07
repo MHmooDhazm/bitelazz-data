@@ -5,9 +5,57 @@
       "name": "الأدمن",
       "role": "admin",
       "active": true
+    },
+    {
+      "id": "2233",
+      "name": "مصطفي",
+      "role": "seller",
+      "active": true
+    },
+    {
+      "id": "3344",
+      "name": "عبدالله",
+      "role": "seller",
+      "active": true
+    },
+    {
+      "id": "ممم",
+      "name": "ممم",
+      "role": "seller",
+      "active": true
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "id": "1762469831682",
+      "name": "ديفرانز",
+      "colors": [
+        {
+          "name": "ج اسود",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 2
+        }
+      ],
+      "sizes": [
+        {
+          "name": "100",
+          "cost_price": 2880,
+          "sale_price": 3200,
+          "quantity": 2
+        }
+      ],
+      "lengths": [
+        {
+          "name": "195",
+          "cost_price": 0,
+          "sale_price": 0,
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-11-06T22:57:11.682Z"
+    }
+  ],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -15,7 +63,10 @@
     "chat_id": "1142088170",
     "sale_notifications": true,
     "product_updates": true,
-    "stock_alerts": true
+    "stock_alerts": true,
+    "bot_enabled": false,
+    "bot_token": "",
+    "bot_chat_id": ""
   },
-  "last_updated": "2025-11-06T23:24:55.002Z"
+  "last_updated": "2025-11-07T01:27:57.616Z"
 }
