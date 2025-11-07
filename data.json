@@ -17,6 +17,12 @@
       "name": "عبدالله",
       "role": "seller",
       "active": true
+    },
+    {
+      "id": "123",
+      "name": "محمود",
+      "role": "seller",
+      "active": true
     }
   ],
   "products": [],
@@ -72,5 +78,5 @@
     "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-07T19:23:00.028Z"
+  "last_updated": "2025-11-07T19:23:28.838Z"
 }
