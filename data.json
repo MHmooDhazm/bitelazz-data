@@ -19,55 +19,7 @@
       "active": true
     }
   ],
-  "products": [
-    {
-      "id": "1763663032447",
-      "name": "ديفرانزا",
-      "specifications": [
-        {
-          "size": "100",
-          "color": "ابيض",
-          "length": "195",
-          "quantity": 6,
-          "sale_price": 2000,
-          "cost_price": 0
-        },
-        {
-          "size": "120",
-          "color": "ابيض",
-          "length": "195",
-          "quantity": 5,
-          "sale_price": 2500,
-          "cost_price": 0
-        },
-        {
-          "size": "150",
-          "color": "ابيض",
-          "length": "195",
-          "quantity": 2,
-          "sale_price": 3500,
-          "cost_price": 0
-        },
-        {
-          "size": "160",
-          "color": "ابيض",
-          "length": "195",
-          "quantity": 5,
-          "sale_price": 3700,
-          "cost_price": 0
-        },
-        {
-          "size": "180",
-          "color": "ابيض",
-          "length": "195",
-          "quantity": 1,
-          "sale_price": 4300,
-          "cost_price": 0
-        }
-      ],
-      "createdAt": "2025-11-20T18:23:52.447Z"
-    }
-  ],
+  "products": [],
   "sales": [],
   "settings": {
     "enabled": true,
@@ -78,5 +30,5 @@
     "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-20T18:23:52.450Z"
+  "last_updated": "2025-11-20T18:25:06.716Z"
 }
