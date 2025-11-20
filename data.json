@@ -183,6 +183,263 @@
         }
       ],
       "createdAt": "2025-11-20T20:37:24.138Z"
+    },
+    {
+      "id": "1763674005689",
+      "name": "كفر مرتبة",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "100",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 2,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "100",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "رمادي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 185,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "رمادي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "170",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 300,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:26:45.689Z"
+    },
+    {
+      "id": "1763675612849",
+      "name": "خدادية لوسي",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "ابيض",
+          "length": "",
+          "quantity": 27,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:53:32.849Z"
+    },
+    {
+      "id": "1763675898386",
+      "name": "خدادية كارما",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "ابيض",
+          "length": "",
+          "quantity": 4,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:58:18.386Z"
+    },
+    {
+      "id": "1763677545802",
+      "name": "ملايات",
+      "specifications": [
+        {
+          "size": "كبير ( 4 قطع )",
+          "color": "بدون",
+          "length": "",
+          "quantity": 20,
+          "sale_price": 300,
+          "cost_price": 0
+        },
+        {
+          "size": "صغيرة ( 6 قطع )",
+          "color": "بدون",
+          "length": "",
+          "quantity": 23,
+          "sale_price": 300,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:25:45.802Z"
+    },
+    {
+      "id": "1763677813202",
+      "name": "اكياس خدادية",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بدون",
+          "length": "",
+          "quantity": 79,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:30:13.202Z"
+    },
+    {
+      "id": "1763677972123",
+      "name": "خلاط JAC",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بدون",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 730,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:32:52.123Z"
+    },
+    {
+      "id": "1763679341734",
+      "name": "كفر ركنة ( 4 قطع )",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بيج فاتح",
+          "length": "",
+          "quantity": 6,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "وردي",
+          "length": "",
+          "quantity": 2,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "ازرق غامق",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "جنزاري",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "رمادي فاتح",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 1350,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:55:41.734Z"
     }
   ],
   "sales": [
@@ -219,6 +476,7 @@
     }
   ],
   "loans": [],
+  "expenses": [],
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
@@ -228,5 +486,5 @@
     "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-20T21:01:24.309Z"
+  "last_updated": "2025-11-20T22:58:10.343Z"
 }
