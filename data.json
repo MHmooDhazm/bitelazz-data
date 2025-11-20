@@ -19,8 +19,206 @@
       "active": true
     }
   ],
-  "products": [],
-  "sales": [],
+  "products": [
+    {
+      "id": "1763669333371",
+      "name": "اوركيديا بد",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 6,
+          "sale_price": 2000,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 5,
+          "sale_price": 2500,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 2,
+          "sale_price": 3500,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 5,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 4300,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:08:53.371Z"
+    },
+    {
+      "id": "1763670089850",
+      "name": "ديفرانزا",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "رصاصي",
+          "length": "195",
+          "quantity": 3,
+          "sale_price": 3400,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "بني",
+          "length": "195",
+          "quantity": 2,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "اسود",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "بني",
+          "length": "195",
+          "quantity": 4,
+          "sale_price": 4500,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "بني",
+          "length": "195",
+          "quantity": 4,
+          "sale_price": 5500,
+          "cost_price": 0
+        },
+        {
+          "size": "170",
+          "color": "بني",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 6000,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 6200,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:21:29.850Z"
+    },
+    {
+      "id": "1763670665907",
+      "name": "فوم 10",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 5,
+          "sale_price": 700,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 7,
+          "sale_price": 800,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 2,
+          "sale_price": 950,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:31:05.907Z"
+    },
+    {
+      "id": "1763671044138",
+      "name": "سوفت",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "190",
+          "quantity": 9,
+          "sale_price": 850,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "190",
+          "quantity": 4,
+          "sale_price": 950,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:37:24.138Z"
+    }
+  ],
+  "sales": [
+    {
+      "invoice_number": "INV-483892",
+      "seller_id": "2233",
+      "seller_name": "مصطفي",
+      "customerName": "وفاء",
+      "customerPhone": "01099812389",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1763671044138",
+          "productName": "سوفت",
+          "selectedSpecification": {
+            "size": "100",
+            "color": "ابيض",
+            "length": "190",
+            "quantity": 10,
+            "sale_price": 850,
+            "cost_price": 0
+          },
+          "specificationText": "📏 100 | 🎨 ابيض | 📐 190",
+          "salePrice": 850,
+          "quantity": 1,
+          "totalPrice": 850
+        }
+      ],
+      "originalTotal": 850,
+      "discount": 50,
+      "total": 800,
+      "timestamp": "2025-11-20T21:01:23.892Z",
+      "status": "completed"
+    }
+  ],
+  "loans": [],
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
@@ -30,5 +228,5 @@
     "stock_alerts": true
   },
   "permanent_invoices": [],
-  "last_updated": "2025-11-20T18:25:25.978Z"
+  "last_updated": "2025-11-20T21:01:24.309Z"
 }
