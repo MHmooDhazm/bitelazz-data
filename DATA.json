@@ -423,6 +423,38 @@
       ]
     },
     {
+      "id": 401,
+      "name": "مرتبه جراند هاوس 25سم",
+      "price": 2500,
+      "description": "ضمان يصل إلى 10 سنوات",
+      "image": "add58c8cb8ddd4836642a31beb3c8c53.jpg",
+      "category": "dofana",
+      "sizes": [
+        { "name": "100", "price": 2500 },
+        { "name": "120", "price": 3000 },
+        { "name": "150", "price": 3750 },
+        { "name": "160", "price": 4000 },
+        { "name": "170", "price": 4250 },
+        { "name": "180", "price": 4500 }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "مرتبة جراند هاوس 30سم",
+      "price": 3100,
+      "description": "ضمان يصل إلى 10 سنوات",
+      "image": "add58c8cb8ddd4836642a31beb3c8c53.jpg",
+      "category": "dofana",
+      "sizes": [
+        { "name": "100", "price": 3100 },
+        { "name": "120", "price": 3720 },
+        { "name": "150", "price": 4650 },
+        { "name": "160", "price": 4960 },
+        { "name": "170", "price": 5270 },
+        { "name": "180", "price": 5580 }
+      ]
+    },
+    {
       "id": 28,
       "name": "مرتبة اوريجنال 10سم",
       "price": 1229,
@@ -1884,38 +1916,6 @@
       ]
     },
     {
-      "id": 401,
-      "name": "مرتبه جراند هاوس 25سم",
-      "price": 2500,
-      "description": "ضمان يصل إلى 10 سنوات",
-      "image": "add58c8cb8ddd4836642a31beb3c8c53.jpg",
-      "category": "grand",
-      "sizes": [
-        { "name": "100", "price": 2500 },
-        { "name": "120", "price": 3000 },
-        { "name": "150", "price": 3750 },
-        { "name": "160", "price": 4000 },
-        { "name": "170", "price": 4250 },
-        { "name": "180", "price": 4500 }
-      ]
-    },
-    {
-      "id": 402,
-      "name": "مرتبة جراند هاوس 30سم",
-      "price": 3100,
-      "description": "ضمان يصل إلى 10 سنوات",
-      "image": "add58c8cb8ddd4836642a31beb3c8c53.jpg",
-      "category": "grand",
-      "sizes": [
-        { "name": "100", "price": 3100 },
-        { "name": "120", "price": 3720 },
-        { "name": "150", "price": 4650 },
-        { "name": "160", "price": 4960 },
-        { "name": "170", "price": 5270 },
-        { "name": "180", "price": 5580 }
-      ]
-    },
-    {
       "id": 403,
       "name": "مرتبة ماجستي 25سم",
       "price": 2800,
@@ -1965,7 +1965,7 @@
       "hasSubcategories": false
     },
     "majesty-grand-dofana": {
-      "name": "ماجستي & جراند & دوفانا",
+      "name": "ماجستي & جراند سليب & دوفانا",
       "image": "mkll.png",
       "hasSubcategories": true,
       "subcategories": {
@@ -1974,7 +1974,7 @@
           "image": "mkll.png"
         },
         "grand": {
-          "name": "جراند",
+          "name": "جراند سليب",
           "image": "add58c8cb8ddd4836642a31beb3c8c53.jpg"
         },
         "dofana": {
@@ -1984,7 +1984,7 @@
       }
     },
     "brands": {
-      "name": "البرندات",
+      "name": "المركات",
       "image": "images (2).jpg",
       "hasSubcategories": true,
       "subcategories": {
