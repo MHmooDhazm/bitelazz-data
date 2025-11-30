@@ -387,7 +387,7 @@
           "size": "بدون",
           "color": "بدون",
           "length": "",
-          "quantity": 4,
+          "quantity": 5,
           "sale_price": 730,
           "cost_price": 0
         }
@@ -717,5 +717,51 @@
     "stock_alerts": true,
     "expense_alerts": true,
     "loan_alerts": true
-  }
+  },
+  "permanent_invoices": [
+    {
+      "invoice_number": "INV-428756",
+      "seller_id": "1122",
+      "seller_name": "عبدالله",
+      "customerName": "اسامه",
+      "customerPhone": "01012395600",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1763677972123",
+          "productName": "خلاط JAC",
+          "selectedSpecification": {
+            "size": "بدون",
+            "color": "بدون",
+            "length": "",
+            "quantity": 5,
+            "sale_price": 730,
+            "cost_price": 0
+          },
+          "specificationText": "📏 بدون | 🎨 بدون",
+          "salePrice": 730,
+          "quantity": 1,
+          "totalPrice": 730
+        }
+      ],
+      "originalTotal": 730,
+      "discount": 0,
+      "total": 730,
+      "timestamp": "2025-11-30T20:27:08.756Z",
+      "status": "completed"
+    }
+  ],
+  "drafts": [
+    {
+      "items": [],
+      "total": 800,
+      "discount": 50,
+      "originalTotal": 850,
+      "customerName": "",
+      "customerPhone": "",
+      "customerAddress": "",
+      "timestamp": "2025-11-20T21:05:41.697Z",
+      "seller_id": "2233"
+    }
+  ]
 }
