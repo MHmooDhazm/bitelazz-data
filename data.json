@@ -138,7 +138,7 @@
           "size": "100",
           "color": "اسود",
           "length": "190",
-          "quantity": 5,
+          "quantity": 3,
           "sale_price": 700,
           "cost_price": 0
         },
@@ -159,7 +159,8 @@
           "cost_price": 0
         }
       ],
-      "createdAt": "2025-11-20T20:31:05.907Z"
+      "createdAt": "2025-11-20T20:31:05.907Z",
+      "updatedAt": "2025-11-30T21:03:26.391Z"
     },
     {
       "id": "1763671044138",
@@ -721,6 +722,37 @@
       "discount": 0,
       "total": 730,
       "timestamp": "2025-11-30T20:27:08.756Z",
+      "status": "completed"
+    },
+    {
+      "invoice_number": "INV-606389",
+      "seller_id": "2233",
+      "seller_name": "مصطفي",
+      "customerName": "اسامه",
+      "customerPhone": "01012395600",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1763670665907",
+          "productName": "فوم 10",
+          "selectedSpecification": {
+            "size": "100",
+            "color": "اسود",
+            "length": "190",
+            "quantity": 5,
+            "sale_price": 700,
+            "cost_price": 0
+          },
+          "specificationText": "📏 100 | 🎨 اسود | 📐 190",
+          "salePrice": 700,
+          "quantity": 2,
+          "totalPrice": 1400
+        }
+      ],
+      "originalTotal": 1400,
+      "discount": 0,
+      "total": 1400,
+      "timestamp": "2025-11-30T21:03:26.389Z",
       "status": "completed"
     }
   ],
