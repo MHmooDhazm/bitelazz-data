@@ -411,7 +411,7 @@
           "length": "",
           "quantity": 6,
           "sale_price": 1350,
-          "cost_price": 0
+          "cost_price": 830
         },
         {
           "size": "بدون",
@@ -419,7 +419,7 @@
           "length": "",
           "quantity": 2,
           "sale_price": 1350,
-          "cost_price": 0
+          "cost_price": 830
         },
         {
           "size": "بدون",
@@ -427,7 +427,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 1350,
-          "cost_price": 0
+          "cost_price": 830
         },
         {
           "size": "بدون",
@@ -435,7 +435,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 1350,
-          "cost_price": 0
+          "cost_price": 830
         },
         {
           "size": "بدون",
@@ -443,10 +443,11 @@
           "length": "",
           "quantity": 5,
           "sale_price": 1350,
-          "cost_price": 0
+          "cost_price": 830
         }
       ],
-      "createdAt": "2025-11-20T22:55:41.734Z"
+      "createdAt": "2025-11-20T22:55:41.734Z",
+      "updatedAt": "2025-12-01T12:40:59.840Z"
     }
   ],
   "sales": [],
