@@ -568,6 +568,41 @@
       ],
       "createdAt": "2025-12-01T12:57:01.094Z",
       "updatedAt": "2025-12-01T12:57:01.094Z"
+    },
+    {
+      "id": "1764596136758",
+      "name": "مخده لافندر",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "استريب",
+          "length": "بدون",
+          "quantity": 10,
+          "sale_price": 185,
+          "cost_price": 150,
+          "createdAt": "2025-12-01T13:32:50.650Z"
+        },
+        {
+          "size": "120",
+          "color": "استريب",
+          "length": "بدون",
+          "quantity": 15,
+          "sale_price": 250,
+          "cost_price": 195,
+          "createdAt": "2025-12-01T13:34:27.513Z"
+        },
+        {
+          "size": "160",
+          "color": "استريب",
+          "length": "بدون",
+          "quantity": 6,
+          "sale_price": 400,
+          "cost_price": 264,
+          "createdAt": "2025-12-01T13:35:32.105Z"
+        }
+      ],
+      "createdAt": "2025-12-01T13:35:36.758Z",
+      "updatedAt": "2025-12-01T13:35:36.758Z"
     }
   ],
   "sales": [],
