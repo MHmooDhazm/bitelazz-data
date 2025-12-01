@@ -198,7 +198,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 150,
-          "cost_price": 0
+          "cost_price": 115
         },
         {
           "size": "100",
@@ -206,7 +206,7 @@
           "length": "",
           "quantity": 2,
           "sale_price": 150,
-          "cost_price": 0
+          "cost_price": 115
         },
         {
           "size": "100",
@@ -214,7 +214,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 150,
-          "cost_price": 0
+          "cost_price": 115
         },
         {
           "size": "120",
@@ -222,7 +222,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 185,
-          "cost_price": 0
+          "cost_price": 138
         },
         {
           "size": "150",
@@ -230,7 +230,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 230,
-          "cost_price": 0
+          "cost_price": 172
         },
         {
           "size": "150",
@@ -238,7 +238,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 230,
-          "cost_price": 0
+          "cost_price": 172
         },
         {
           "size": "150",
@@ -246,7 +246,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 230,
-          "cost_price": 0
+          "cost_price": 172
         },
         {
           "size": "150",
@@ -254,7 +254,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 230,
-          "cost_price": 0
+          "cost_price": 172
         },
         {
           "size": "160",
@@ -262,7 +262,7 @@
           "length": "",
           "quantity": 5,
           "sale_price": 250,
-          "cost_price": 0
+          "cost_price": 184
         },
         {
           "size": "160",
@@ -270,7 +270,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 250,
-          "cost_price": 0
+          "cost_price": 184
         },
         {
           "size": "160",
@@ -278,7 +278,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 250,
-          "cost_price": 0
+          "cost_price": 184
         },
         {
           "size": "170",
@@ -286,7 +286,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 300,
-          "cost_price": 0
+          "cost_price": 195
         },
         {
           "size": "180",
@@ -294,7 +294,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 350,
-          "cost_price": 0
+          "cost_price": 207
         },
         {
           "size": "180",
@@ -302,7 +302,7 @@
           "length": "",
           "quantity": 1,
           "sale_price": 350,
-          "cost_price": 0
+          "cost_price": 207
         },
         {
           "size": "180",
@@ -310,10 +310,11 @@
           "length": "",
           "quantity": 1,
           "sale_price": 350,
-          "cost_price": 0
+          "cost_price": 207
         }
       ],
-      "createdAt": "2025-11-20T21:26:45.689Z"
+      "createdAt": "2025-11-20T21:26:45.689Z",
+      "updatedAt": "2025-12-01T12:36:26.337Z"
     },
     {
       "id": "1763675612849",
@@ -324,11 +325,12 @@
           "color": "ابيض",
           "length": "",
           "quantity": 23,
-          "sale_price": 50,
-          "cost_price": 0
+          "sale_price": 38,
+          "cost_price": 50
         }
       ],
-      "createdAt": "2025-11-20T21:53:32.849Z"
+      "createdAt": "2025-11-20T21:53:32.849Z",
+      "updatedAt": "2025-12-01T12:36:48.056Z"
     },
     {
       "id": "1763675898386",
