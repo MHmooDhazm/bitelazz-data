@@ -349,7 +349,7 @@
     },
     {
       "id": "1763677545802",
-      "name": "ملايات",
+      "name": "ملايات ",
       "specifications": [
         {
           "size": "كبير ( 4 قطع )",
@@ -357,7 +357,7 @@
           "length": "",
           "quantity": 20,
           "sale_price": 300,
-          "cost_price": 0
+          "cost_price": 165
         },
         {
           "size": "صغيرة ( 6 قطع )",
@@ -365,10 +365,11 @@
           "length": "",
           "quantity": 23,
           "sale_price": 300,
-          "cost_price": 0
+          "cost_price": 225
         }
       ],
-      "createdAt": "2025-11-20T22:25:45.802Z"
+      "createdAt": "2025-11-20T22:25:45.802Z",
+      "updatedAt": "2025-12-01T12:38:55.967Z"
     },
     {
       "id": "1763677813202",
