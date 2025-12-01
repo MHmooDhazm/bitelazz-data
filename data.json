@@ -603,6 +603,41 @@
       ],
       "createdAt": "2025-12-01T13:35:36.758Z",
       "updatedAt": "2025-12-01T13:36:27.956Z"
+    },
+    {
+      "id": "1764596342647",
+      "name": "مخده ريش نعام",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 5,
+          "sale_price": 180,
+          "cost_price": 130,
+          "createdAt": "2025-12-01T13:37:35.424Z"
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 9,
+          "sale_price": 220,
+          "cost_price": 160,
+          "createdAt": "2025-12-01T13:38:23.941Z"
+        },
+        {
+          "size": "160",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 13,
+          "sale_price": 350,
+          "cost_price": 208,
+          "createdAt": "2025-12-01T13:38:56.078Z"
+        }
+      ],
+      "createdAt": "2025-12-01T13:39:02.647Z",
+      "updatedAt": "2025-12-01T13:39:02.647Z"
     }
   ],
   "sales": [],
