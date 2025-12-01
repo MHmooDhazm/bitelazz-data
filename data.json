@@ -499,6 +499,41 @@
       ],
       "createdAt": "2025-12-01T12:49:41.874Z",
       "updatedAt": "2025-12-01T12:49:41.874Z"
+    },
+    {
+      "id": "1764593569480",
+      "name": "مخده لوسي",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "بدون",
+          "length": "بدون",
+          "quantity": 15,
+          "sale_price": 100,
+          "cost_price": 55,
+          "createdAt": "2025-12-01T12:51:17.846Z"
+        },
+        {
+          "size": "120",
+          "color": "بدون",
+          "length": "بدون",
+          "quantity": 10,
+          "sale_price": 120,
+          "cost_price": 65,
+          "createdAt": "2025-12-01T12:51:59.230Z"
+        },
+        {
+          "size": "160",
+          "color": "بدون",
+          "length": "بدون",
+          "quantity": 15,
+          "sale_price": 150,
+          "cost_price": 85,
+          "createdAt": "2025-12-01T12:52:46.842Z"
+        }
+      ],
+      "createdAt": "2025-12-01T12:52:49.480Z",
+      "updatedAt": "2025-12-01T12:52:49.480Z"
     }
   ],
   "sales": [],
