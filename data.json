@@ -382,10 +382,11 @@
           "length": "",
           "quantity": 79,
           "sale_price": 50,
-          "cost_price": 0
+          "cost_price": 35
         }
       ],
-      "createdAt": "2025-11-20T22:30:13.202Z"
+      "createdAt": "2025-11-20T22:30:13.202Z",
+      "updatedAt": "2025-12-01T14:47:33.999Z"
     },
     {
       "id": "1763677972123",
