@@ -325,12 +325,12 @@
           "color": "ابيض",
           "length": "",
           "quantity": 23,
-          "sale_price": 38,
-          "cost_price": 50
+          "sale_price": 50,
+          "cost_price": 38
         }
       ],
       "createdAt": "2025-11-20T21:53:32.849Z",
-      "updatedAt": "2025-12-01T12:36:48.056Z"
+      "updatedAt": "2025-12-01T14:09:28.098Z"
     },
     {
       "id": "1763675898386",
