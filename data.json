@@ -673,6 +673,41 @@
       ],
       "createdAt": "2025-12-01T13:42:34.060Z",
       "updatedAt": "2025-12-01T13:42:34.060Z"
+    },
+    {
+      "id": "1764596685753",
+      "name": "مخده سندس ساده لوكس",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 2,
+          "sale_price": 250,
+          "cost_price": 165,
+          "createdAt": "2025-12-01T13:43:37.524Z"
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 3,
+          "sale_price": 300,
+          "cost_price": 210,
+          "createdAt": "2025-12-01T13:44:04.194Z"
+        },
+        {
+          "size": "150",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 2,
+          "sale_price": 400,
+          "cost_price": 278,
+          "createdAt": "2025-12-01T13:44:43.478Z"
+        }
+      ],
+      "createdAt": "2025-12-01T13:44:45.753Z",
+      "updatedAt": "2025-12-01T13:44:45.753Z"
     }
   ],
   "sales": [],
