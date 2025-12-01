@@ -174,7 +174,7 @@
           "length": "190",
           "quantity": 9,
           "sale_price": 850,
-          "cost_price": 0
+          "cost_price": 710
         },
         {
           "size": "120",
@@ -182,10 +182,11 @@
           "length": "190",
           "quantity": 4,
           "sale_price": 950,
-          "cost_price": 0
+          "cost_price": 852
         }
       ],
-      "createdAt": "2025-11-20T20:37:24.138Z"
+      "createdAt": "2025-11-20T20:37:24.138Z",
+      "updatedAt": "2025-12-01T12:34:11.971Z"
     },
     {
       "id": "1763674005689",
