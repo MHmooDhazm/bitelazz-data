@@ -142,7 +142,7 @@
           "length": "190",
           "quantity": 5,
           "sale_price": 700,
-          "cost_price": 0
+          "cost_price": 475
         },
         {
           "size": "120",
@@ -150,7 +150,7 @@
           "length": "190",
           "quantity": 7,
           "sale_price": 800,
-          "cost_price": 0
+          "cost_price": 570
         },
         {
           "size": "150",
@@ -158,10 +158,11 @@
           "length": "190",
           "quantity": 2,
           "sale_price": 950,
-          "cost_price": 0
+          "cost_price": 715
         }
       ],
-      "createdAt": "2025-11-20T20:31:05.907Z"
+      "createdAt": "2025-11-20T20:31:05.907Z",
+      "updatedAt": "2025-12-01T12:33:15.622Z"
     },
     {
       "id": "1763671044138",
