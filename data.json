@@ -78,7 +78,7 @@
           "length": "195",
           "quantity": 3,
           "sale_price": 3400,
-          "cost_price": 0
+          "cost_price": 2580
         },
         {
           "size": "120",
@@ -86,7 +86,7 @@
           "length": "195",
           "quantity": 2,
           "sale_price": 3700,
-          "cost_price": 0
+          "cost_price": 3095
         },
         {
           "size": "120",
@@ -94,7 +94,7 @@
           "length": "195",
           "quantity": 1,
           "sale_price": 3700,
-          "cost_price": 0
+          "cost_price": 3095
         },
         {
           "size": "150",
@@ -102,7 +102,7 @@
           "length": "195",
           "quantity": 4,
           "sale_price": 4500,
-          "cost_price": 0
+          "cost_price": 4610
         },
         {
           "size": "160",
@@ -110,7 +110,7 @@
           "length": "195",
           "quantity": 4,
           "sale_price": 5500,
-          "cost_price": 0
+          "cost_price": 4920
         },
         {
           "size": "170",
@@ -118,7 +118,7 @@
           "length": "195",
           "quantity": 1,
           "sale_price": 6000,
-          "cost_price": 0
+          "cost_price": 5230
         },
         {
           "size": "180",
@@ -126,10 +126,11 @@
           "length": "195",
           "quantity": 1,
           "sale_price": 6200,
-          "cost_price": 0
+          "cost_price": 5540
         }
       ],
-      "createdAt": "2025-11-20T20:21:29.850Z"
+      "createdAt": "2025-11-20T20:21:29.850Z",
+      "updatedAt": "2025-12-01T12:32:00.590Z"
     },
     {
       "id": "1763670665907",
