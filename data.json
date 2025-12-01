@@ -638,6 +638,41 @@
       ],
       "createdAt": "2025-12-01T13:39:02.647Z",
       "updatedAt": "2025-12-01T13:39:02.647Z"
+    },
+    {
+      "id": "1764596554060",
+      "name": "مخده سندس كابتونيه",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "الوان",
+          "length": "بدون",
+          "quantity": 4,
+          "sale_price": 390,
+          "cost_price": 325,
+          "createdAt": "2025-12-01T13:41:10.110Z"
+        },
+        {
+          "size": "120",
+          "color": "الوان",
+          "length": "بدون",
+          "quantity": 6,
+          "sale_price": 450,
+          "cost_price": 390,
+          "createdAt": "2025-12-01T13:41:45.127Z"
+        },
+        {
+          "size": "150",
+          "color": "الوان",
+          "length": "بدون",
+          "quantity": 3,
+          "sale_price": 550,
+          "cost_price": 478,
+          "createdAt": "2025-12-01T13:42:31.526Z"
+        }
+      ],
+      "createdAt": "2025-12-01T13:42:34.060Z",
+      "updatedAt": "2025-12-01T13:42:34.060Z"
     }
   ],
   "sales": [],
