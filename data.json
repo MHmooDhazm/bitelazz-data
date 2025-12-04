@@ -822,7 +822,6 @@
   "sales": [],
   "loans": [],
   "expenses": [],
-  "permanent_invoices": [],
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
@@ -833,5 +832,6 @@
     "expense_alerts": true,
     "loan_alerts": true,
     "last_merge": "2025-12-04T15:37:09.915Z"
-  }
+  },
+  "permanent_invoices": []
 }
