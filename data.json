@@ -817,11 +817,90 @@
       ],
       "createdAt": "2025-12-01T14:33:43.855Z",
       "updatedAt": "2025-12-01T14:33:43.855Z"
+    },
+    {
+      "id": "1764867404315",
+      "name": "كفرات ابيض",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 7,
+          "sale_price": 150,
+          "cost_price": 115,
+          "createdAt": "2025-12-04T16:52:45.982Z"
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 10,
+          "sale_price": 185,
+          "cost_price": 138,
+          "createdAt": "2025-12-04T16:53:21.047Z"
+        },
+        {
+          "size": "150",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 172,
+          "createdAt": "2025-12-04T16:54:00.950Z"
+        },
+        {
+          "size": "160",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 14,
+          "sale_price": 250,
+          "cost_price": 184,
+          "createdAt": "2025-12-04T16:54:35.349Z"
+        },
+        {
+          "size": "170",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 4,
+          "sale_price": 330,
+          "cost_price": 195,
+          "createdAt": "2025-12-04T16:55:14.908Z"
+        },
+        {
+          "size": "180",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 4,
+          "sale_price": 350,
+          "cost_price": 207,
+          "createdAt": "2025-12-04T16:55:53.600Z"
+        },
+        {
+          "size": "2متر",
+          "color": "ابيض",
+          "length": "بدون",
+          "quantity": 3,
+          "sale_price": 380,
+          "cost_price": 230,
+          "createdAt": "2025-12-04T16:56:32.634Z"
+        }
+      ],
+      "createdAt": "2025-12-04T16:56:44.315Z",
+      "updatedAt": "2025-12-04T16:56:44.315Z"
     }
   ],
   "sales": [],
   "loans": [],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "1764867953592",
+      "amount": 1000,
+      "reason": "5 قطعه ملايا بيت العز 2",
+      "timestamp": "2025-12-04T17:05:53.592Z",
+      "date": "٤‏/١٢‏/٢٠٢٥"
+    }
+  ],
   "permanent_invoices": [],
   "settings": {
     "enabled": true,
@@ -832,6 +911,6 @@
     "stock_alerts": true,
     "expense_alerts": true,
     "loan_alerts": true,
-    "last_merge": "2025-12-04T16:48:47.376Z"
+    "last_merge": "2025-12-04T17:12:43.690Z"
   }
 }
