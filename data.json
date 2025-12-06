@@ -2,13 +2,13 @@
   "users": [
     {
       "id": "219196",
-      "name": "الأدمن",
+      "name": "Ø§ÙØ£Ø¯ÙÙ",
       "role": "admin",
       "active": true
     },
     {
       "id": "1122",
-      "name": "عبدالله",
+      "name": "Ø¹Ø¨Ø¯Ø§ÙÙÙ",
       "role": "seller",
       "active": true
     }
@@ -16,11 +16,11 @@
   "products": [
     {
       "id": "1763669333371",
-      "name": "اوركيديا بد",
+      "name": "Ø§ÙØ±ÙÙØ¯ÙØ§ Ø¨Ø¯",
       "specifications": [
         {
           "size": "100",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 6,
           "sale_price": 2000,
@@ -28,7 +28,7 @@
         },
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 5,
           "sale_price": 2500,
@@ -36,7 +36,7 @@
         },
         {
           "size": "150",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 2,
           "sale_price": 3500,
@@ -44,7 +44,7 @@
         },
         {
           "size": "160",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 5,
           "sale_price": 3700,
@@ -52,7 +52,7 @@
         },
         {
           "size": "180",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 4300,
@@ -64,11 +64,11 @@
     },
     {
       "id": "1763670089850",
-      "name": "ديفرانزا",
+      "name": "Ø¯ÙÙØ±Ø§ÙØ²Ø§",
       "specifications": [
         {
           "size": "100",
-          "color": "رصاصي",
+          "color": "Ø±ØµØ§ØµÙ",
           "length": "195",
           "quantity": 3,
           "sale_price": 3400,
@@ -76,7 +76,7 @@
         },
         {
           "size": "120",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "195",
           "quantity": 2,
           "sale_price": 3700,
@@ -84,7 +84,7 @@
         },
         {
           "size": "120",
-          "color": "اسود",
+          "color": "Ø§Ø³ÙØ¯",
           "length": "195",
           "quantity": 1,
           "sale_price": 3700,
@@ -92,7 +92,7 @@
         },
         {
           "size": "150",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "195",
           "quantity": 4,
           "sale_price": 4500,
@@ -100,7 +100,7 @@
         },
         {
           "size": "160",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "195",
           "quantity": 4,
           "sale_price": 5500,
@@ -108,7 +108,7 @@
         },
         {
           "size": "170",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "195",
           "quantity": 1,
           "sale_price": 6000,
@@ -116,7 +116,7 @@
         },
         {
           "size": "180",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 6200,
@@ -128,11 +128,11 @@
     },
     {
       "id": "1763670665907",
-      "name": "فوم 10سم",
+      "name": "ÙÙÙ 10Ø³Ù",
       "specifications": [
         {
           "size": "100",
-          "color": "اسود",
+          "color": "Ø§Ø³ÙØ¯",
           "length": "190",
           "quantity": 5,
           "sale_price": 700,
@@ -140,7 +140,7 @@
         },
         {
           "size": "120",
-          "color": "اسود",
+          "color": "Ø§Ø³ÙØ¯",
           "length": "190",
           "quantity": 7,
           "sale_price": 800,
@@ -148,7 +148,7 @@
         },
         {
           "size": "150",
-          "color": "اسود",
+          "color": "Ø§Ø³ÙØ¯",
           "length": "190",
           "quantity": 2,
           "sale_price": 950,
@@ -160,11 +160,11 @@
     },
     {
       "id": "1763671044138",
-      "name": "سوفت 15سم",
+      "name": "Ø³ÙÙØª 15Ø³Ù",
       "specifications": [
         {
           "size": "100",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "190",
           "quantity": 9,
           "sale_price": 850,
@@ -172,7 +172,7 @@
         },
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "190",
           "quantity": 4,
           "sale_price": 950,
@@ -184,11 +184,11 @@
     },
     {
       "id": "1763674005689",
-      "name": "كفر مرتبة",
+      "name": "ÙÙØ± ÙØ±ØªØ¨Ø©",
       "specifications": [
         {
           "size": "100",
-          "color": "نبيتي",
+          "color": "ÙØ¨ÙØªÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 150,
@@ -196,7 +196,7 @@
         },
         {
           "size": "100",
-          "color": "رصاصي",
+          "color": "Ø±ØµØ§ØµÙ",
           "length": "",
           "quantity": 2,
           "sale_price": 150,
@@ -204,7 +204,7 @@
         },
         {
           "size": "100",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 150,
@@ -212,7 +212,7 @@
         },
         {
           "size": "120",
-          "color": "رمادي",
+          "color": "Ø±ÙØ§Ø¯Ù",
           "length": "",
           "quantity": 1,
           "sale_price": 185,
@@ -220,7 +220,7 @@
         },
         {
           "size": "150",
-          "color": "نبيتي",
+          "color": "ÙØ¨ÙØªÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 230,
@@ -228,7 +228,7 @@
         },
         {
           "size": "150",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 230,
@@ -236,7 +236,7 @@
         },
         {
           "size": "150",
-          "color": "رمادي",
+          "color": "Ø±ÙØ§Ø¯Ù",
           "length": "",
           "quantity": 1,
           "sale_price": 230,
@@ -244,7 +244,7 @@
         },
         {
           "size": "150",
-          "color": "رصاصي",
+          "color": "Ø±ØµØ§ØµÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 230,
@@ -252,7 +252,7 @@
         },
         {
           "size": "160",
-          "color": "نبيتي",
+          "color": "ÙØ¨ÙØªÙ",
           "length": "",
           "quantity": 5,
           "sale_price": 250,
@@ -260,7 +260,7 @@
         },
         {
           "size": "160",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 250,
@@ -268,7 +268,7 @@
         },
         {
           "size": "160",
-          "color": "رصاصي",
+          "color": "Ø±ØµØ§ØµÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 250,
@@ -276,7 +276,7 @@
         },
         {
           "size": "170",
-          "color": "نبيتي",
+          "color": "ÙØ¨ÙØªÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 300,
@@ -284,7 +284,7 @@
         },
         {
           "size": "180",
-          "color": "نبيتي",
+          "color": "ÙØ¨ÙØªÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 350,
@@ -292,7 +292,7 @@
         },
         {
           "size": "180",
-          "color": "رصاصي",
+          "color": "Ø±ØµØ§ØµÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 350,
@@ -300,7 +300,7 @@
         },
         {
           "size": "180",
-          "color": "بني",
+          "color": "Ø¨ÙÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 350,
@@ -312,11 +312,11 @@
     },
     {
       "id": "1763675612849",
-      "name": "خدادية لوسي",
+      "name": "Ø®Ø¯Ø§Ø¯ÙØ© ÙÙØ³Ù",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "ابيض",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "",
           "quantity": 23,
           "sale_price": 50,
@@ -328,11 +328,11 @@
     },
     {
       "id": "1763675898386",
-      "name": "خدادية كارما",
+      "name": "Ø®Ø¯Ø§Ø¯ÙØ© ÙØ§Ø±ÙØ§",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "ابيض",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "",
           "quantity": 50,
           "sale_price": 100,
@@ -344,19 +344,19 @@
     },
     {
       "id": "1763677545802",
-      "name": "ملايات ",
+      "name": "ÙÙØ§ÙØ§Øª ",
       "specifications": [
         {
-          "size": "كبير ( 4 قطع )",
-          "color": "بدون",
+          "size": "ÙØ¨ÙØ± ( 4 ÙØ·Ø¹ )",
+          "color": "Ø¨Ø¯ÙÙ",
           "length": "",
           "quantity": 20,
           "sale_price": 300,
           "cost_price": 165
         },
         {
-          "size": "صغيرة ( 6 قطع )",
-          "color": "بدون",
+          "size": "ØµØºÙØ±Ø© ( 6 ÙØ·Ø¹ )",
+          "color": "Ø¨Ø¯ÙÙ",
           "length": "",
           "quantity": 23,
           "sale_price": 300,
@@ -368,11 +368,11 @@
     },
     {
       "id": "1763677813202",
-      "name": "اكياس خدادية",
+      "name": "Ø§ÙÙØ§Ø³ Ø®Ø¯Ø§Ø¯ÙØ©",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بدون",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨Ø¯ÙÙ",
           "length": "",
           "quantity": 79,
           "sale_price": 50,
@@ -384,11 +384,11 @@
     },
     {
       "id": "1763677972123",
-      "name": "خلاط JAC",
+      "name": "Ø®ÙØ§Ø· JAC",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بدون",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨Ø¯ÙÙ",
           "length": "",
           "quantity": 5,
           "sale_price": 730,
@@ -400,43 +400,43 @@
     },
     {
       "id": "1763679341734",
-      "name": "كفر ركنة ( 4 قطع )",
+      "name": "ÙÙØ± Ø±ÙÙØ© ( 4 ÙØ·Ø¹ )",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بيج فاتح",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨ÙØ¬ ÙØ§ØªØ­",
           "length": "",
           "quantity": 6,
           "sale_price": 1350,
           "cost_price": 830
         },
         {
-          "size": "بدون",
-          "color": "وردي",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "ÙØ±Ø¯Ù",
           "length": "",
           "quantity": 2,
           "sale_price": 1350,
           "cost_price": 830
         },
         {
-          "size": "بدون",
-          "color": "ازرق غامق",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø§Ø²Ø±Ù ØºØ§ÙÙ",
           "length": "",
           "quantity": 1,
           "sale_price": 1350,
           "cost_price": 830
         },
         {
-          "size": "بدون",
-          "color": "جنزاري",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¬ÙØ²Ø§Ø±Ù",
           "length": "",
           "quantity": 1,
           "sale_price": 1350,
           "cost_price": 830
         },
         {
-          "size": "بدون",
-          "color": "رمادي فاتح",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø±ÙØ§Ø¯Ù ÙØ§ØªØ­",
           "length": "",
           "quantity": 5,
           "sale_price": 1350,
@@ -448,12 +448,12 @@
     },
     {
       "id": "1764593134958",
-      "name": "خداديه استريب لافندر",
+      "name": "Ø®Ø¯Ø§Ø¯ÙÙ Ø§Ø³ØªØ±ÙØ¨ ÙØ§ÙÙØ¯Ø±",
       "specifications": [
         {
           "size": "70*50",
-          "color": "اسنريب",
-          "length": "بدون",
+          "color": "Ø§Ø³ÙØ±ÙØ¨",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 18,
           "sale_price": 200,
           "cost_price": 135,
@@ -465,12 +465,12 @@
     },
     {
       "id": "1764593288661",
-      "name": "خداديه سندس كابتونيه1100جرام",
+      "name": "Ø®Ø¯Ø§Ø¯ÙÙ Ø³ÙØ¯Ø³ ÙØ§Ø¨ØªÙÙÙÙ1100Ø¬Ø±Ø§Ù",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بدون",
-          "length": "بدون",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 8,
           "sale_price": 300,
           "cost_price": 165,
@@ -482,12 +482,12 @@
     },
     {
       "id": "1764593381874",
-      "name": "خداديه ميكرو فيبرا ريش نعام",
+      "name": "Ø®Ø¯Ø§Ø¯ÙÙ ÙÙÙØ±Ù ÙÙØ¨Ø±Ø§ Ø±ÙØ´ ÙØ¹Ø§Ù",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بدون",
-          "length": "بدون",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 1,
           "sale_price": 650,
           "cost_price": 430,
@@ -499,12 +499,12 @@
     },
     {
       "id": "1764593569480",
-      "name": "مخده لوسي",
+      "name": "ÙØ®Ø¯Ù ÙÙØ³Ù",
       "specifications": [
         {
           "size": "100",
-          "color": "بدون",
-          "length": "بدون",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 15,
           "sale_price": 100,
           "cost_price": 55,
@@ -512,8 +512,8 @@
         },
         {
           "size": "120",
-          "color": "بدون",
-          "length": "بدون",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 10,
           "sale_price": 120,
           "cost_price": 65,
@@ -521,8 +521,8 @@
         },
         {
           "size": "160",
-          "color": "بدون",
-          "length": "بدون",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 15,
           "sale_price": 150,
           "cost_price": 85,
@@ -534,12 +534,12 @@
     },
     {
       "id": "1764593701261",
-      "name": "خداديه رقبه سفر",
+      "name": "Ø®Ø¯Ø§Ø¯ÙÙ Ø±ÙØ¨Ù Ø³ÙØ±",
       "specifications": [
         {
-          "size": "بدون",
-          "color": "بدون",
-          "length": "بدون",
+          "size": "Ø¨Ø¯ÙÙ",
+          "color": "Ø¨Ø¯ÙÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 16,
           "sale_price": 300,
           "cost_price": 200,
@@ -551,11 +551,11 @@
     },
     {
       "id": "1764593821094",
-      "name": "خداديه ميموري فوم عاديه",
+      "name": "Ø®Ø¯Ø§Ø¯ÙÙ ÙÙÙÙØ±Ù ÙÙÙ Ø¹Ø§Ø¯ÙÙ",
       "specifications": [
         {
           "size": "70",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "50",
           "quantity": 9,
           "sale_price": 750,
@@ -568,12 +568,12 @@
     },
     {
       "id": "1764596136758",
-      "name": "مخده لافندر",
+      "name": "ÙØ®Ø¯Ù ÙØ§ÙÙØ¯Ø±",
       "specifications": [
         {
           "size": "100",
-          "color": "استريب",
-          "length": "بدون",
+          "color": "Ø§Ø³ØªØ±ÙØ¨",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 10,
           "sale_price": 220,
           "cost_price": 165,
@@ -581,8 +581,8 @@
         },
         {
           "size": "120",
-          "color": "استريب",
-          "length": "بدون",
+          "color": "Ø§Ø³ØªØ±ÙØ¨",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 15,
           "sale_price": 280,
           "cost_price": 195,
@@ -590,8 +590,8 @@
         },
         {
           "size": "160",
-          "color": "استريب",
-          "length": "بدون",
+          "color": "Ø§Ø³ØªØ±ÙØ¨",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 6,
           "sale_price": 400,
           "cost_price": 264,
@@ -603,12 +603,12 @@
     },
     {
       "id": "1764596342647",
-      "name": "مخده ريش نعام",
+      "name": "ÙØ®Ø¯Ù Ø±ÙØ´ ÙØ¹Ø§Ù",
       "specifications": [
         {
           "size": "100",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 5,
           "sale_price": 180,
           "cost_price": 130,
@@ -616,8 +616,8 @@
         },
         {
           "size": "120",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 9,
           "sale_price": 220,
           "cost_price": 160,
@@ -625,8 +625,8 @@
         },
         {
           "size": "160",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 13,
           "sale_price": 350,
           "cost_price": 208,
@@ -638,12 +638,12 @@
     },
     {
       "id": "1764596554060",
-      "name": "مخده سندس كابتونيه",
+      "name": "ÙØ®Ø¯Ù Ø³ÙØ¯Ø³ ÙØ§Ø¨ØªÙÙÙÙ",
       "specifications": [
         {
           "size": "100",
-          "color": "الوان",
-          "length": "بدون",
+          "color": "Ø§ÙÙØ§Ù",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 4,
           "sale_price": 390,
           "cost_price": 325,
@@ -651,8 +651,8 @@
         },
         {
           "size": "120",
-          "color": "الوان",
-          "length": "بدون",
+          "color": "Ø§ÙÙØ§Ù",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 6,
           "sale_price": 450,
           "cost_price": 390,
@@ -660,8 +660,8 @@
         },
         {
           "size": "150",
-          "color": "الوان",
-          "length": "بدون",
+          "color": "Ø§ÙÙØ§Ù",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 3,
           "sale_price": 550,
           "cost_price": 478,
@@ -673,12 +673,12 @@
     },
     {
       "id": "1764596685753",
-      "name": "مخده سندس ساده لوكس",
+      "name": "ÙØ®Ø¯Ù Ø³ÙØ¯Ø³ Ø³Ø§Ø¯Ù ÙÙÙØ³",
       "specifications": [
         {
           "size": "100",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 2,
           "sale_price": 250,
           "cost_price": 165,
@@ -686,8 +686,8 @@
         },
         {
           "size": "120",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 3,
           "sale_price": 300,
           "cost_price": 210,
@@ -695,8 +695,8 @@
         },
         {
           "size": "150",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 2,
           "sale_price": 400,
           "cost_price": 278,
@@ -708,12 +708,12 @@
     },
     {
       "id": "1764596836229",
-      "name": "مرتبة تطريه الوان",
+      "name": "ÙØ±ØªØ¨Ø© ØªØ·Ø±ÙÙ Ø§ÙÙØ§Ù",
       "specifications": [
         {
           "size": "150",
-          "color": "نبيتي",
-          "length": "بدون",
+          "color": "ÙØ¨ÙØªÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 1,
           "sale_price": 1100,
           "cost_price": 975,
@@ -721,8 +721,8 @@
         },
         {
           "size": "120",
-          "color": "نبيتي",
-          "length": "بدون",
+          "color": "ÙØ¨ÙØªÙ",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 1,
           "sale_price": 850,
           "cost_price": 780,
@@ -734,11 +734,11 @@
     },
     {
       "id": "1764597464799",
-      "name": " مرتبه كونكريت",
+      "name": " ÙØ±ØªØ¨Ù ÙÙÙÙØ±ÙØª",
       "specifications": [
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 5,
           "sale_price": 3700,
@@ -747,7 +747,7 @@
         },
         {
           "size": "160",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 4500,
@@ -760,11 +760,11 @@
     },
     {
       "id": "1764598045083",
-      "name": "مرتبه ستي فوم",
+      "name": "ÙØ±ØªØ¨Ù Ø³ØªÙ ÙÙÙ",
       "specifications": [
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 3100,
@@ -777,11 +777,11 @@
     },
     {
       "id": "1764599073853",
-      "name": "مرتبه بوكس توب منفصل",
+      "name": "ÙØ±ØªØ¨Ù Ø¨ÙÙØ³ ØªÙØ¨ ÙÙÙØµÙ",
       "specifications": [
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 7200,
@@ -794,11 +794,11 @@
     },
     {
       "id": "1764599623855",
-      "name": "مرتبه بيلوتوب 35",
+      "name": "ÙØ±ØªØ¨Ù Ø¨ÙÙÙØªÙØ¨ 35",
       "specifications": [
         {
           "size": "120",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 6200,
@@ -807,7 +807,7 @@
         },
         {
           "size": "150",
-          "color": "ابيض",
+          "color": "Ø§Ø¨ÙØ¶",
           "length": "195",
           "quantity": 1,
           "sale_price": 7200,
@@ -820,12 +820,12 @@
     },
     {
       "id": "1764867404315",
-      "name": "كفرات ابيض",
+      "name": "ÙÙØ±Ø§Øª Ø§Ø¨ÙØ¶",
       "specifications": [
         {
           "size": "100",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 7,
           "sale_price": 150,
           "cost_price": 115,
@@ -833,8 +833,8 @@
         },
         {
           "size": "120",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 10,
           "sale_price": 185,
           "cost_price": 138,
@@ -842,8 +842,8 @@
         },
         {
           "size": "150",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 1,
           "sale_price": 230,
           "cost_price": 172,
@@ -851,8 +851,8 @@
         },
         {
           "size": "160",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 14,
           "sale_price": 250,
           "cost_price": 184,
@@ -860,8 +860,8 @@
         },
         {
           "size": "170",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 4,
           "sale_price": 330,
           "cost_price": 195,
@@ -869,17 +869,17 @@
         },
         {
           "size": "180",
-          "color": "ابيض",
-          "length": "بدون",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 4,
           "sale_price": 350,
           "cost_price": 207,
           "createdAt": "2025-12-04T16:55:53.600Z"
         },
         {
-          "size": "2متر",
-          "color": "ابيض",
-          "length": "بدون",
+          "size": "2ÙØªØ±",
+          "color": "Ø§Ø¨ÙØ¶",
+          "length": "Ø¨Ø¯ÙÙ",
           "quantity": 3,
           "sale_price": 380,
           "cost_price": 230,
@@ -891,16 +891,17 @@
     }
   ],
   "sales": [],
-  "loans": [],
   "expenses": [
     {
       "id": "1764867953592",
       "amount": 1000,
-      "reason": "5 قطعه ملايا بيت العز 2",
+      "reason": "5 ÙØ·Ø¹Ù ÙÙØ§ÙØ§ Ø¨ÙØª Ø§ÙØ¹Ø² 2",
       "timestamp": "2025-12-04T17:05:53.592Z",
-      "date": "٤‏/١٢‏/٢٠٢٥"
+      "date": "Ù¤â/Ù¡Ù¢â/Ù¢Ù Ù¢Ù¥"
     }
   ],
+  "loans": [],
+  "transfers": [],
   "permanent_invoices": [],
   "settings": {
     "enabled": true,
@@ -912,5 +913,7 @@
     "expense_alerts": true,
     "loan_alerts": true,
     "last_merge": "2025-12-04T17:50:39.952Z"
-  }
+  },
+  "last_updated": "2025-12-06T12:22:20.055Z",
+  "sync_timestamp": 1765023740056
 }
