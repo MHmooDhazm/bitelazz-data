@@ -2,10 +2,9 @@
   "users": [
     {
       "id": "219196",
-      "name": "Ø§ÙØ£Ø¯ÙÙ",
+      "name": "الأدمن",
       "role": "admin",
-      "active": true,
-      "created_at": "2025-12-06T01:45:34.223Z"
+      "active": true
     }
   ],
   "products": [],
@@ -15,6 +14,6 @@
   "transfers": [],
   "permanent_invoices": [],
   "settings": {},
-  "last_updated": "2025-12-06T01:46:02.293Z",
-  "sync_timestamp": 1764985562293
+  "last_updated": "2025-12-06T11:57:07.103Z",
+  "sync_timestamp": 1765022227103
 }
