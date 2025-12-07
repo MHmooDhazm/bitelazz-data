@@ -4838,11 +4838,11 @@
       "chatId": "7292128411"
     },
     "colors": {
-      "primary": "#8B008B",
-      "secondary": "#9932CC",
-      "accent": "#BA55D3",
+      "primary": "#8b008b",
+      "secondary": "#9932cc",
+      "accent": "#ba55d3",
       "light": "#ffffff",
-      "dark": "#4B0082"
+      "dark": "#4b0082"
     }
   }
 }
