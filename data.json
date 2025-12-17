@@ -7,18 +7,6 @@
       "active": true
     },
     {
-      "id": "1234",
-      "name": "البائع 1",
-      "role": "seller",
-      "active": true
-    },
-    {
-      "id": "5678",
-      "name": "البائع 2",
-      "role": "seller",
-      "active": true
-    },
-    {
       "id": "2233",
       "name": "مصطفي",
       "role": "seller",
@@ -33,50 +21,470 @@
   ],
   "products": [
     {
-      "id": "1",
-      "name": "مرتبة دفرنز",
+      "id": "1763669333371",
+      "name": "اوركيديا بد",
       "specifications": [
         {
-          "size": "120",
-          "color": "أبيض",
+          "size": "100",
+          "color": "ابيض",
           "length": "195",
-          "quantity": 7,
-          "sale_price": 1500,
-          "cost_price": 1000
+          "quantity": 6,
+          "sale_price": 2000,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 5,
+          "sale_price": 2500,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 2,
+          "sale_price": 3500,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 5,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 4300,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:08:53.371Z"
+    },
+    {
+      "id": "1763670089850",
+      "name": "ديفرانزا",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "رصاصي",
+          "length": "195",
+          "quantity": 3,
+          "sale_price": 3400,
+          "cost_price": 0
         },
         {
           "size": "120",
           "color": "بني",
           "length": "195",
-          "quantity": 7,
-          "sale_price": 1500,
-          "cost_price": 1000
+          "quantity": 2,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "اسود",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 3700,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "بني",
+          "length": "195",
+          "quantity": 4,
+          "sale_price": 4500,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "بني",
+          "length": "195",
+          "quantity": 4,
+          "sale_price": 5500,
+          "cost_price": 0
+        },
+        {
+          "size": "170",
+          "color": "بني",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 6000,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "ابيض",
+          "length": "195",
+          "quantity": 1,
+          "sale_price": 6200,
+          "cost_price": 0
         }
-      ]
+      ],
+      "createdAt": "2025-11-20T20:21:29.850Z"
+    },
+    {
+      "id": "1763670665907",
+      "name": "فوم 10",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 5,
+          "sale_price": 700,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 7,
+          "sale_price": 800,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "اسود",
+          "length": "190",
+          "quantity": 2,
+          "sale_price": 950,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:31:05.907Z"
+    },
+    {
+      "id": "1763671044138",
+      "name": "سوفت",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "ابيض",
+          "length": "190",
+          "quantity": 9,
+          "sale_price": 850,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "ابيض",
+          "length": "190",
+          "quantity": 4,
+          "sale_price": 950,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T20:37:24.138Z"
+    },
+    {
+      "id": "1763674005689",
+      "name": "كفر مرتبة",
+      "specifications": [
+        {
+          "size": "100",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "100",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 2,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "100",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 150,
+          "cost_price": 0
+        },
+        {
+          "size": "120",
+          "color": "رمادي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 185,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "رمادي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "150",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 230,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "160",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 250,
+          "cost_price": 0
+        },
+        {
+          "size": "170",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 300,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "نبيتي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "رصاصي",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        },
+        {
+          "size": "180",
+          "color": "بني",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 350,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:26:45.689Z"
+    },
+    {
+      "id": "1763675612849",
+      "name": "خدادية لوسي",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "ابيض",
+          "length": "",
+          "quantity": 23,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:53:32.849Z"
+    },
+    {
+      "id": "1763675898386",
+      "name": "خدادية كارما",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "ابيض",
+          "length": "",
+          "quantity": 4,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T21:58:18.386Z"
+    },
+    {
+      "id": "1763677545802",
+      "name": "ملايات",
+      "specifications": [
+        {
+          "size": "كبير ( 4 قطع )",
+          "color": "بدون",
+          "length": "",
+          "quantity": 20,
+          "sale_price": 300,
+          "cost_price": 0
+        },
+        {
+          "size": "صغيرة ( 6 قطع )",
+          "color": "بدون",
+          "length": "",
+          "quantity": 23,
+          "sale_price": 300,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:25:45.802Z"
+    },
+    {
+      "id": "1763677813202",
+      "name": "اكياس خدادية",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بدون",
+          "length": "",
+          "quantity": 79,
+          "sale_price": 50,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:30:13.202Z"
+    },
+    {
+      "id": "1763677972123",
+      "name": "خلاط JAC",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بدون",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 730,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:32:52.123Z"
+    },
+    {
+      "id": "1763679341734",
+      "name": "كفر ركنة ( 4 قطع )",
+      "specifications": [
+        {
+          "size": "بدون",
+          "color": "بيج فاتح",
+          "length": "",
+          "quantity": 6,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "وردي",
+          "length": "",
+          "quantity": 2,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "ازرق غامق",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "جنزاري",
+          "length": "",
+          "quantity": 1,
+          "sale_price": 1350,
+          "cost_price": 0
+        },
+        {
+          "size": "بدون",
+          "color": "رمادي فاتح",
+          "length": "",
+          "quantity": 5,
+          "sale_price": 1350,
+          "cost_price": 0
+        }
+      ],
+      "createdAt": "2025-11-20T22:55:41.734Z"
     }
   ],
-  "sales": [],
-  "expenses": [],
+  "sales": [
+    {
+      "invoice_number": "INV-483892",
+      "seller_id": "2233",
+      "seller_name": "مصطفي",
+      "customerName": "وفاء",
+      "customerPhone": "01099812389",
+      "customerAddress": "الجيزه",
+      "items": [
+        {
+          "productId": "1763671044138",
+          "productName": "سوفت",
+          "selectedSpecification": {
+            "size": "100",
+            "color": "ابيض",
+            "length": "190",
+            "quantity": 10,
+            "sale_price": 850,
+            "cost_price": 0
+          },
+          "specificationText": "📏 100 | 🎨 ابيض | 📐 190",
+          "salePrice": 850,
+          "quantity": 1,
+          "totalPrice": 850
+        }
+      ],
+      "originalTotal": 850,
+      "discount": 50,
+      "total": 800,
+      "timestamp": "2025-11-20T21:01:23.892Z",
+      "status": "completed"
+    }
+  ],
   "loans": [],
-  "permanent_invoices": [],
+  "expenses": [],
   "settings": {
     "enabled": true,
     "token": "8275963858:AAE-06eafUvArAuRNOcLAJzw6W-sYlU4PRM",
     "chat_id": "1142088170",
     "sale_notifications": true,
     "product_updates": true,
-    "stock_alerts": true,
-    "report_frequency": "daily",
-    "report_time": "18:00",
-    "expense_alerts": true,
-    "loan_alerts": true,
-    "transferAlerts": true,
-    "monthlyReports": true
+    "stock_alerts": true
   },
-  "metadata": {
-    "last_updated": "2025-12-16T18:30:17.748Z",
-    "updated_by": "Bitelazz System",
-    "sync_count": 3,
-    "system_version": "2.0"
-  }
+  "permanent_invoices": [],
+  "last_updated": "2025-11-20T22:58:19.210Z"
 }
