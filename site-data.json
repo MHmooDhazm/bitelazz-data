@@ -22,8 +22,25 @@
       "backgroundVideo": ""
     }
   },
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat_1766820504561",
+      "name": {
+        "ar": "بي ام دبيو",
+        "en": "Bmw"
+      },
+      "description": {
+        "ar": "محمود",
+        "en": "Mohmd"
+      },
+      "image": "blob:https://lovely-froyo-3e9064.netlify.app/9f15e267-b3dd-415b-a3c5-6e636c337ffd",
+      "createdAt": "2025-12-27T07:28:24.563Z"
+    }
+  ],
   "products": [],
   "orders": [],
-  "lastUpdated": null
+  "metadata": {
+    "updated": "2025-12-27T07:29:01.319Z",
+    "version": "1.0.0"
+  }
 }
