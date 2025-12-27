@@ -1,0 +1,99 @@
+{
+  "activeTheme": 1,
+  "enable3D": true,
+  "animationSpeed": 1,
+  "enableSnow": true,
+  "primaryColor": "#0a0a0a",
+  "accentColor": "#c8a951",
+  "site": {
+    "name": {
+      "ar": "عبدالله للسيارات",
+      "en": "Abdallah Cars"
+    },
+    "logo": "",
+    "favicon": ""
+  },
+  "hero": {
+    "title": {
+      "ar": "عالم من الفخامة والسرعة",
+      "en": "A World of Luxury and Speed"
+    },
+    "description": {
+      "ar": "اكتشف مجموعة سياراتنا الفاخرة وأحدث الموديلات من أشهر العلامات التجارية العالمية",
+      "en": "Discover our luxury car collection and the latest models from the world's most famous brands"
+    },
+    "video": "",
+    "languageVideo": ""
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "ar": "سيارات فاخرة",
+        "en": "Luxury Cars"
+      },
+      "description": {
+        "ar": "أفضل السيارات الفاخرة من أشهر الماركات العالمية",
+        "en": "Best luxury cars from world famous brands"
+      },
+      "color": "#c8a951",
+      "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "count": 12
+    },
+    {
+      "id": 2,
+      "name": {
+        "ar": "سيارات عائلية",
+        "en": "Family Cars"
+      },
+      "description": {
+        "ar": "سيارات عائلية مريحة وآمنة للعائلة",
+        "en": "Comfortable and safe family cars"
+      },
+      "color": "#3b82f6",
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "count": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": {
+        "ar": "أودي A8 2023",
+        "en": "Audi A8 2023"
+      },
+      "description": {
+        "ar": "سيارة فاخرة بتصميم أنيق وتقنيات متطورة",
+        "en": "Luxury car with elegant design and advanced technology"
+      },
+      "brand": "audi",
+      "price": "450,000 ر.س",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "specs": [
+        {
+          "name": {
+            "ar": "المحرك",
+            "en": "Engine"
+          },
+          "value": "3.0L V6"
+        },
+        {
+          "name": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "335 حصان"
+        }
+      ],
+      "features": {
+        "ar": ["نظام صوتي B&O", "مقاعد جلدية", "شاشة لمس 12 بوصة"],
+        "en": ["B&O Sound System", "Leather Seats", "12-inch Touchscreen"]
+      }
+    }
+  ]
+}
