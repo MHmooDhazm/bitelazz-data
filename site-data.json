@@ -5,10 +5,19 @@
       "en": "Abdallah Cars"
     },
     "logo": "",
-    "colors": {
-      "primary": "#0a0a0a",
-      "secondary": "#1a1a1a",
-      "accent": "#e5e5e5"
+    "theme": {
+      "primaryColor": "#0a0a0a",
+      "secondaryColor": "#000000",
+      "goldColor": "#D4AF37",
+      "lightGold": "#F5DEB3",
+      "darkGold": "#B8860B"
+    },
+    "animation": {
+      "enableLogoAnimation": true,
+      "enable3D": true,
+      "enableColorMerge": true,
+      "loadingVideo": "logo.mp4",
+      "backgroundVideo": "logo2.mp4"
     },
     "contact": {
       "phone": "+966 11 123 4567",
@@ -19,28 +28,66 @@
     "settings": {
       "enable3D": true,
       "enableDoorAnimation": true,
-      "backgroundVideo": ""
+      "githubToken": ""
     }
   },
-  "categories": [
-    {
-      "id": "cat_1766820504561",
-      "name": {
-        "ar": "بي ام دبيو",
-        "en": "Bmw"
-      },
-      "description": {
-        "ar": "محمود",
-        "en": "Mohmd"
-      },
-      "image": "blob:https://lovely-froyo-3e9064.netlify.app/9f15e267-b3dd-415b-a3c5-6e636c337ffd",
-      "createdAt": "2025-12-27T07:28:24.563Z"
-    }
-  ],
+  
+  "testimonials": {
+    "title": {
+      "ar": "آراء عملائنا",
+      "en": "Client Testimonials"
+    },
+    "animationSpeed": 3,
+    "items": []
+  },
+  
+  "faq": {
+    "title": {
+      "ar": "أسئلة شائعة",
+      "en": "Frequently Asked Questions"
+    },
+    "items": []
+  },
+  
+  "trustSection": {
+    "title": {
+      "ar": "ثقة عملائنا",
+      "en": "Our Clients Trust"
+    },
+    "animationSpeed": 5,
+    "infiniteLoop": true,
+    "items": []
+  },
+  
+  "messages": {
+    "title": {
+      "ar": "رسائل العملاء",
+      "en": "Client Messages"
+    },
+    "items": []
+  },
+  
+  "categories": [],
+  
   "products": [],
+  
   "orders": [],
+  
+  "stats": {
+    "totalProducts": 0,
+    "totalCategories": 0,
+    "totalOrders": 0,
+    "totalTestimonials": 0,
+    "totalFaq": 0,
+    "totalMessages": 0,
+    "totalRevenue": 0,
+    "lastUpdated": ""
+  },
+  
   "metadata": {
-    "updated": "2025-12-27T07:29:01.319Z",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "created": "",
+    "updated": "",
+    "syncEnabled": true
   }
 }
