@@ -2,217 +2,35 @@
   "site": {
     "name": {
       "ar": "عبدالله للسيارات",
-      "en": "Abdallah Cars"
+      "en": "Abdullah Cars"
     },
-    "logo": "",
-    "colors": {
-      "primary": "#000000",
-      "secondary": "#D4AF37",
-      "accent": "#B8860B"
+    "logo": "logo.png",
+    "country": "مصر",
+    "currency": "جنيه",
+    "currencySymbol": "ج.م",
+    "themeColor": "#c53030",
+    "secondaryColor": "#0a0a0a"
+  },
+  "contact": {
+    "phone": "+20 123 456 7890",
+    "whatsapp": "+20 100 123 4567",
+    "email": "info@abdullah-cars.com",
+    "address": {
+      "ar": "القاهرة، مصر",
+      "en": "Cairo, Egypt"
     },
-    "contact": {
-      "phone": "+966 11 123 4567",
-      "email": "info@abdallah-cars.com",
-      "address": "الرياض، المملكة العربية السعودية",
-      "workingHours": "الأحد - الخميس: 9 صباحاً - 9 مساءً"
+    "workingHours": {
+      "ar": "الأحد - الخميس: 9 ص - 9 م",
+      "en": "Sun - Thu: 9 AM - 9 PM"
     }
   },
-  "categories": [
-    {
-      "id": "cat_1",
-      "name": {
-        "ar": "سيارات فاخرة",
-        "en": "Luxury Cars"
-      },
-      "description": {
-        "ar": "أفضل السيارات الفاخرة من الماركات العالمية",
-        "en": "Premium luxury cars from global brands"
-      },
-      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-      "order": 1,
-      "status": "active",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "cat_2",
-      "name": {
-        "ar": "دفع رباعي",
-        "en": "SUVs"
-      },
-      "description": {
-        "ar": "سيارات الدفع الرباعي للأداء المتميز",
-        "en": "SUVs for exceptional performance"
-      },
-      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-      "order": 2,
-      "status": "active",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "cat_3",
-      "name": {
-        "ar": "سيارات رياضية",
-        "en": "Sports Cars"
-      },
-      "description": {
-        "ar": "سيارات رياضية عالية الأداء",
-        "en": "High-performance sports cars"
-      },
-      "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-      "order": 3,
-      "status": "active",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "cat_4",
-      "name": {
-        "ar": "سيارات كهربائية",
-        "en": "Electric Cars"
-      },
-      "description": {
-        "ar": "سيارات كهربائية صديقة للبيئة",
-        "en": "Environmentally friendly electric cars"
-      },
-      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-      "order": 4,
-      "status": "active",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    }
-  ],
-  "products": [
-    {
-      "id": "prod_1",
-      "name": {
-        "ar": "أودي A8 2024",
-        "en": "Audi A8 2024"
-      },
-      "description": {
-        "ar": "سيارة فاخرة بمحرك V8 سعة 4.0 لتر تقدم تجربة قيادة استثنائية مع راحة لا مثيل لها. تتميز بتصميم أنيق وتقنيات متطورة تجمع بين الفخامة والأداء المتميز.",
-        "en": "Luxury car with 4.0L V8 engine offering exceptional driving experience. Features elegant design and advanced technology combining luxury and performance."
-      },
-      "categoryId": "cat_1",
-      "price": 450000,
-      "currency": "SAR",
-      "specifications": {
-        "المحرك": "V8 سعة 4.0 لتر",
-        "القوة": "500 حصان",
-        "ناقل الحركة": "أوتوماتيك 8 سرعات",
-        "التسارع": "4.5 ثانية (0-100 كم/س)",
-        "الوقود": "بينزين",
-        "سعة الوقود": "80 لتر",
-        "الاستهلاك": "12 لتر/100 كم",
-        "نظام الدفع": "دفع رباعي"
-      },
-      "features": {
-        "ar": [
-          "مقاعد جلد طبيعي مع تدفئة وتهوية",
-          "شاشة لمس 12 بوصة",
-          "نظام صوتي متميز 16 مكبر صوت",
-          "أنظمة أمان متكاملة مع كاميرا 360 درجة",
-          "نظام تكييف ثلاثي المناطق",
-          "إضاءة LED متكاملة"
-        ]
-      },
-      "images": [
-        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-      ],
-      "status": "available",
-      "featured": true,
-      "createdAt": "2024-01-01T00:00:00.000Z",
-      "updatedAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "prod_2",
-      "name": {
-        "ar": "مرسيدس G-Class 2024",
-        "en": "Mercedes G-Class 2024"
-      },
-      "description": {
-        "ar": "سيارة دفع رباعي فاخرة بقدرات متعددة التضاريس وتصميم كلاسيكي مع تقنيات حديثة. مثالية للطرق الوعرة مع راحة فائقة.",
-        "en": "Luxury SUV with multi-terrain capabilities, classic design, and modern technology. Ideal for off-road with superior comfort."
-      },
-      "categoryId": "cat_2",
-      "price": 520000,
-      "currency": "SAR",
-      "specifications": {
-        "المحرك": "V8 سعة 4.0 لتر",
-        "القوة": "585 حصان",
-        "ناقل الحركة": "أوتوماتيك 9 سرعات",
-        "التسارع": "4.5 ثانية (0-100 كم/س)",
-        "الوقود": "بينزين",
-        "سعة الوقود": "100 لتر",
-        "الاستهلاك": "14 لتر/100 كم",
-        "نظام الدفع": "دفع رباعي دائم"
-      },
-      "features": {
-        "ar": [
-          "مقاعد جلدية فاخرة",
-          "شاشة معلومات رقمية",
-          "نظام صوتي برلينر",
-          "أنظمة أمان متقدمة",
-          "نظام تعليق هوائي",
-          "قدرات متعددة التضاريس"
-        ]
-      },
-      "images": [
-        "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-      ],
-      "status": "available",
-      "featured": true,
-      "createdAt": "2024-01-01T00:00:00.000Z",
-      "updatedAt": "2024-01-01T00:00:00.000Z"
-    }
-  ],
-  "testimonials": {
-    "items": [
-      {
-        "id": "test_1",
-        "name": "محمد أحمد",
-        "message": "أفضل معرض سيارات تعاملت معه، خدمة ممتازة وجودة عالية وأسعار منافسة. أنصح الجميع بالتعامل معهم.",
-        "image": "",
-        "rating": 5,
-        "status": "approved",
-        "date": "2024-01-15T10:30:00.000Z"
-      },
-      {
-        "id": "test_2",
-        "name": "خالد السالم",
-        "message": "تجربة رائعة من البداية للنهاية. فريق محترف واهتمام بالتفاصيل. سيارتي وصلت في أفضل حالة.",
-        "image": "",
-        "rating": 5,
-        "status": "approved",
-        "date": "2024-01-20T14:45:00.000Z"
-      }
-    ]
-  },
-  "trustSection": {
-    "items": [
-      {
-        "id": "trust_1",
-        "name": "أحمد الرشيد",
-        "comment": "تعاملت مع عبدالله للسيارات منذ أكثر من 5 سنوات وهم الأفضل في السوق من حيث الجودة والخدمة.",
-        "logo": "",
-        "status": "approved",
-        "date": "2024-01-10T09:00:00.000Z"
-      }
-    ]
-  },
-  "orders": [],
+  "categories": [],
+  "products": [],
+  "testimonials": [],
   "messages": [],
-  "stats": {
-    "totalProducts": 2,
-    "totalCategories": 4,
-    "totalOrders": 0,
-    "totalRevenue": 0,
-    "lastUpdated": "2024-01-01T00:00:00.000Z"
-  },
-  "metadata": {
-    "version": "1.0.0",
-    "created": "2024-01-01T00:00:00.000Z",
-    "updated": "2024-01-01T00:00:00.000Z",
-    "syncEnabled": true
+  "orders": [],
+  "admin": {
+    "password": "2845",
+    "lastLogin": null
   }
 }
