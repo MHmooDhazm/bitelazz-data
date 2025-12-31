@@ -1,13 +1,13 @@
 {
   "site": {
     "name": {
-      "ar": "عبدالله للسيارات",
+      "ar": "Ø¹Ø¨Ø¯Ø§ÙÙÙ ÙÙØ³ÙØ§Ø±Ø§Øª",
       "en": "Abdullah Cars"
     },
     "logo": "logo.png",
-    "country": "مصر",
-    "currency": "جنيه",
-    "currencySymbol": "ج.م",
+    "country": "ÙØµØ±",
+    "currency": "Ø¬ÙÙÙ",
+    "currencySymbol": "Ø¬.Ù",
     "themeColor": "#c53030",
     "secondaryColor": "#0a0a0a"
   },
@@ -16,11 +16,11 @@
     "whatsapp": "+20 100 123 4567",
     "email": "info@abdullah-cars.com",
     "address": {
-      "ar": "القاهرة، مصر",
+      "ar": "Ø§ÙÙØ§ÙØ±Ø©Ø ÙØµØ±",
       "en": "Cairo, Egypt"
     },
     "workingHours": {
-      "ar": "الأحد - الخميس: 9 ص - 9 م",
+      "ar": "Ø§ÙØ£Ø­Ø¯ - Ø§ÙØ®ÙÙØ³: 9 Øµ - 9 Ù",
       "en": "Sun - Thu: 9 AM - 9 PM"
     }
   },
@@ -31,6 +31,13 @@
   "orders": [],
   "admin": {
     "password": "2845",
-    "lastLogin": null
+    "lastLogin": "2025-12-31T15:58:37.057Z"
+  },
+  "telegram": {
+    "token": "8303670310:AAFaqb1kl1U7Z_kkS0ofXiMF159PlHpHYUQ",
+    "chatId": "5749060658",
+    "enabled": true,
+    "message": "🎉 طلب جديد 🎉\n\n👤 العميل: {name}\n📞 الهاتف: {phone}\n🚗 المنتج: {product}\n💰 السعر: {price} ج.م\n\n📅 التاريخ: {date}",
+    "logs": []
   }
 }
