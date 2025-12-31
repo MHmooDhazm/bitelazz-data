@@ -1,100 +1,55 @@
 {
   "site": {
     "name": {
-      "ar": "عبدالله للسيارات",
+      "ar": "Ø³ÙØ±Ø§Øª Ø¹Ø¨Ø¯Ø§ÙÙÙ",
       "en": "Abdullah Cars"
     },
-    "country": "مصر",
-    "currencySymbol": "ج.م"
-  },
-  "hero": {
-    "title": {
-      "ar": "عبدالله للسيارات",
-      "en": "Abdullah Cars"
-    },
-    "description": {
-      "ar": "تجربة فاخرة في عالم السيارات. الجودة والتميز في كل تفصيل، حيث تجتمع الأناقة مع الأداء المتميز لتقدم لك أفضل ما في عالم السيارات الفاخرة.",
-      "en": "A luxurious experience in the world of cars. Quality and excellence in every detail, where elegance meets exceptional performance to offer you the best in the world of luxury cars."
-    },
-    "ctaButton": {
-      "ar": "استعرض السيارات",
-      "en": "Browse Cars"
-    }
+    "logo": "logo.png",
+    "country": "ÃÂÃÂµÃÂ±",
+    "currency": "ÃÂ¬ÃÂÃÂÃÂ",
+    "currencySymbol": "ÃÂ¬.ÃÂ",
+    "themeColor": "#c53030",
+    "secondaryColor": "#0a0a0a"
   },
   "contact": {
     "phone": "+20 123 456 7890",
     "whatsapp": "+20 100 123 4567",
     "email": "info@abdullah-cars.com",
     "address": {
-      "ar": "القاهرة، مصر",
+      "ar": "ÃÂ§ÃÂÃÂÃÂ§ÃÂÃÂ±ÃÂ©ÃÂ ÃÂÃÂµÃÂ±",
       "en": "Cairo, Egypt"
     },
     "workingHours": {
-      "ar": "الأحد - الخميس: 9 ص - 9 م",
-      "en": "Sunday - Thursday: 9 AM - 9 PM"
+      "ar": "ÃÂ§ÃÂÃÂ£ÃÂ­ÃÂ¯ - ÃÂ§ÃÂÃÂ®ÃÂÃÂÃÂ³: 9 ÃÂµ - 9 ÃÂ",
+      "en": "Sun - Thu: 9 AM - 9 PM"
     },
-    "facebook": "https://facebook.com",
-    "instagram": "https://instagram.com",
-    "twitter": "https://twitter.com",
-    "youtube": "https://youtube.com"
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "youtube": ""
   },
-  "features": [
-    {
-      "icon": "🚗",
-      "title": {
-        "ar": "سيارات فاخرة",
-        "en": "Luxury Cars"
-      },
-      "description": {
-        "ar": "نقدم أفضل الماركات العالمية بجودة عالية ومواصفات فريدة مع ضمان شامل وخدمة ما بعد البيع",
-        "en": "We offer the best international brands with high quality and unique specifications with comprehensive warranty and after-sales service"
-      }
-    },
-    {
-      "icon": "⚙️",
-      "title": {
-        "ar": "صيانة ممتازة",
-        "en": "Excellent Maintenance"
-      },
-      "description": {
-        "ar": "فريق صيانة متخصص بقطع غيار أصلية وخدمة ما بعد البيع مع ضمان شامل على جميع الأعمال",
-        "en": "Specialized maintenance team with original spare parts and after-sales service with comprehensive warranty on all work"
-      }
-    },
-    {
-      "icon": "💰",
-      "title": {
-        "ar": "أسعار تنافسية",
-        "en": "Competitive Prices"
-      },
-      "description": {
-        "ar": "أفضل الأسعار في السوق مع خيارات تمويل متنوعة وتسهيلات دفع تناسب جميع العملاء",
-        "en": "Best prices in the market with various financing options and payment facilities suitable for all customers"
-      }
-    },
-    {
-      "icon": "📞",
-      "title": {
-        "ar": "دعم فني 24/7",
-        "en": "24/7 Technical Support"
-      },
-      "description": {
-        "ar": "خدمة عملاء على مدار الساعة لحل أي مشكلة تواجهك مع فريق دعم فني متخصص",
-        "en": "24/7 customer service to solve any problem you face with a specialized technical support team"
-      }
-    }
-  ],
   "categories": [],
   "products": [],
+  "testimonials": [],
   "messages": [],
+  "orders": [],
   "admin": {
-    "password": "2845"
+    "password": "2845",
+    "lastLogin": "2025-12-31T15:58:37.057Z"
   },
   "telegram": {
     "token": "8303670310:AAFaqb1kl1U7Z_kkS0ofXiMF159PlHpHYUQ",
     "chatId": "5749060658",
     "enabled": true,
-    "message": "🎉 طلب جديد 🎉\n\n👤 العميل: {name}\n📞 الهاتف: {phone}\n🚗 المنتج: {product}\n💰 السعر: {price}\n📅 التاريخ: {date}",
-    "logs": []
-  }
+    "message": "ð Ø·ÙØ¨ Ø¬Ø¯ÙØ¯ ð\n\nð¤ Ø§ÙØ¹ÙÙÙ: {name}\nð Ø§ÙÙØ§ØªÙ: {phone}\nð Ø§ÙÙÙØªØ¬: {product}\nð° Ø§ÙØ³Ø¹Ø±: {price} Ø¬.Ù\n\nð Ø§ÙØªØ§Ø±ÙØ®: {date}",
+    "logs": [
+      {
+        "timestamp": "2025-12-31T16:00:43.926Z",
+        "type": "test",
+        "success": true,
+        "message": "Ø±Ø³Ø§ÙØ© Ø§Ø®ØªØ¨Ø§Ø±"
+      }
+    ]
+  },
+  "features": []
 }
