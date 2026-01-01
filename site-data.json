@@ -1,26 +1,26 @@
 {
   "site": {
     "name": {
-      "ar": "Ø³ÙØ±Ø§Øª Ø¹Ø¨Ø¯Ø§ÙÙÙ",
+      "ar": "سيارات عبدالله ",
       "en": "Abdullah Cars"
     },
     "logo": "logo.png",
     "country": "ÃÂÃÂµÃÂ±",
     "currency": "ÃÂ¬ÃÂÃÂÃÂ",
-    "currencySymbol": "ÃÂ¬.ÃÂ",
+    "currencySymbol": "EG",
     "themeColor": "#c53030",
     "secondaryColor": "#0a0a0a"
   },
   "contact": {
-    "phone": "+20 123 456 7890",
-    "whatsapp": "+20 100 123 4567",
-    "email": "info@abdullah-cars.com",
+    "phone": "01121811110",
+    "whatsapp": "01121811110",
+    "email": "amarmotors850@gmail.com",
     "address": {
-      "ar": "ÃÂ§ÃÂÃÂÃÂ§ÃÂÃÂ±ÃÂ©ÃÂ ÃÂÃÂµÃÂ±",
-      "en": "Cairo, Egypt"
+      "ar": "30-أحمد عرابي - الجيزة",
+      "en": "30-ahmedorabi agouza -giza"
     },
     "workingHours": {
-      "ar": "ÃÂ§ÃÂÃÂ£ÃÂ­ÃÂ¯ - ÃÂ§ÃÂÃÂ®ÃÂÃÂÃÂ³: 9 ÃÂµ - 9 ÃÂ",
+      "ar": "السبت - الخميس: 10 صباحًا - 10مساءً",
       "en": "Sun - Thu: 9 AM - 9 PM"
     },
     "facebook": "",
