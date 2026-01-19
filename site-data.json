@@ -1,32 +1,56 @@
 {
-  "site": {
-    "name": { "ar": "عبدالله للسيارات", "en": "Abdullah Cars" },
-    "currencySymbol": "ج.م"
-  },
   "categories": [],
   "products": [],
   "users": [],
-  "specialOffers": [],
-  "messages": [],
   "orders": [],
-  "contact": {},
-  "hero": {
-    "title": { "ar": "", "en": "" },
-    "description": { "ar": "", "en": "" },
-    "ctaButton": { "ar": "", "en": "" }
+  "sellRequests": [],
+  "exchangeRequests": [],
+  "messages": [],
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "address": {
+      "ar": "",
+      "en": ""
+    },
+    "workingHours": {
+      "ar": "",
+      "en": ""
+    }
   },
-  "footer": {
-    "description": { "ar": "", "en": "" }
+  "site": {
+    "name": {
+      "ar": "عبدالله للسيارات",
+      "en": "Abdullah Cars"
+    },
+    "currencySymbol": "ج.م",
+    "logo": null,
+    "favicon": null
   },
   "admin": {
-    "password": "2845"
+    "password": "2845",
+    "lastLogin": null,
+    "permissions": ["all"]
   },
   "telegram": {
+    "enabled": false,
     "token": "",
     "chatId": "",
-    "enabled": false,
     "message": "🎉 طلب جديد 🎉\n\n👤 العميل: {name}\n📞 الهاتف: {phone}\n🚗 المنتج: {product}\n💰 السعر: {price} ج.م\n\n📅 التاريخ: {date}",
     "logs": []
   },
-  "installmentPlans": []
+  "settings": {
+    "autoSync": true,
+    "syncInterval": 300000,
+    "backupInterval": 86400000,
+    "lastBackup": null
+  },
+  "stats": {
+    "totalVisitors": 0,
+    "totalOrders": 0,
+    "totalRevenue": 0,
+    "monthlyVisitors": {},
+    "monthlyRevenue": {}
+  }
 }
