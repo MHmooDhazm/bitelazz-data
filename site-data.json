@@ -7,8 +7,8 @@
   "users": [
     {
       "id": "admin_001",
-      "username": "admin",
-      "password": "2845",
+      "username": "abdallah",
+      "password": "5566",
       "role": "admin",
       "fullName": "المدير الرئيسي",
       "permissions": ["all"],
