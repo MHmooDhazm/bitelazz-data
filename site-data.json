@@ -1,80 +1,61 @@
 {
-  "products": [],
-  "brands": [],
-  "orders": [],
-  "sellRequests": [],
-  "exchangeRequests": [],
-  "users": [
-    {
-      "id": "admin_001",
-      "username": "abdallah",
-      "password": "5566",
-      "role": "admin",
-      "fullName": "المدير الرئيسي",
-      "permissions": ["all"],
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    }
-  ],
+  "version": "1.0.0",
+  "lastUpdated": "",
   "site": {
     "name": {
       "ar": "سيارات عبدالله",
       "en": "Abdullah Cars"
     },
     "description": {
-      "ar": "معرض السيارات الفاخرة الأول في مصر",
-      "en": "The first luxury car showroom in Egypt"
+      "ar": "أفضل عروض السيارات الجديدة والمستعملة في مصر",
+      "en": "Best offers for new and used cars in Egypt"
     },
-    "currencySymbol": "ج.م",
-    "colors": {
-      "primary": "#c53030",
-      "primaryDark": "#9b2c2c",
-      "secondary": "#0a0a0a",
-      "light": "#f7fafc",
-      "white": "#ffffff",
-      "gray": "#a0aec0",
-      "darkGray": "#4a5568"
-    },
-    "logo": "",
-    "favicon": ""
+    "currency": "ج.م",
+    "language": "ar"
   },
   "contact": {
     "phone": "01012345678",
     "whatsapp": "01012345678",
     "email": "info@abdullahcars.com",
-    "address": {
-      "ar": "القاهرة، مصر",
-      "en": "Cairo, Egypt"
-    },
-    "workingHours": {
-      "ar": "9 ص - 9 م",
-      "en": "9 AM - 9 PM"
-    },
-    "social": {
-      "facebook": "",
-      "instagram": "",
-      "tiktok": "",
-      "youtube": ""
+    "address": "القاهرة، مصر",
+    "workingHours": "9 ص - 9 م"
+  },
+  "social": {
+    "facebook": "https://facebook.com/abdullahcars",
+    "instagram": "https://instagram.com/abdullahcars",
+    "tiktok": "https://tiktok.com/@abdullahcars",
+    "youtube": "https://youtube.com/abdullahcars"
+  },
+  "users": [
+    {
+      "id": "admin_001",
+      "username": "admin",
+      "password": "2845",
+      "role": "ADMIN",
+      "fullName": "المدير الرئيسي",
+      "email": "admin@abdullahcars.com",
+      "permissions": ["all"],
+      "active": true,
+      "createdAt": "",
+      "lastLogin": ""
     }
-  },
-  "admin": {
-    "telegramBotToken": "",
-    "telegramChatId": "",
-    "security": {
-      "maxLoginAttempts": 3,
-      "sessionTimeout": 3600000
-    }
-  },
-  "system": {
-    "lastSync": "",
-    "createdAt": "2024-01-01T00:00:00.000Z",
-    "version": "1.0.0"
-  },
+  ],
+  "brands": [],
+  "products": [],
+  "categories": [],
+  "orders": [],
+  "sellRequests": [],
+  "exchangeRequests": [],
+  "testimonials": [],
   "settings": {
-    "language": "ar",
-    "currency": "EGP",
-    "timezone": "Africa/Cairo",
-    "dateFormat": "DD/MM/YYYY",
+    "theme": "default",
+    "logo": "",
+    "favicon": "",
+    "mainColor": "#c53030",
+    "secondaryColor": "#0a0a0a",
+    "enableWhatsapp": true,
     "enableNotifications": true,
-    "enableTelegram": false
+    "autoSync": true,
+    "syncInterval": 30
   }
 }
