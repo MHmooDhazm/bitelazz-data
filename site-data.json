@@ -1,85 +1,80 @@
-
 {
+  "products": [],
+  "brands": [],
+  "orders": [],
+  "sellRequests": [],
+  "exchangeRequests": [],
+  "users": [
+    {
+      "id": "admin_001",
+      "username": "admin",
+      "password": "2845",
+      "role": "admin",
+      "fullName": "المدير الرئيسي",
+      "permissions": ["all"],
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
   "site": {
     "name": {
-      "ar": "عبدالله للسيارات",
+      "ar": "سيارات عبدالله",
       "en": "Abdullah Cars"
     },
     "description": {
       "ar": "معرض السيارات الفاخرة الأول في مصر",
-      "en": "The First Luxury Car Showroom in Egypt"
+      "en": "The first luxury car showroom in Egypt"
     },
-    "currency": "EGP",
     "currencySymbol": "ج.م",
-    "theme": {
-      "primaryColor": "#c53030",
-      "secondaryColor": "#0a0a0a",
-      "fontFamily": "Cairo"
-    }
-  },
-  "hero": {
-    "title": {
-      "ar": "عبدالله للسيارات",
-      "en": "Abdullah Cars"
+    "colors": {
+      "primary": "#c53030",
+      "primaryDark": "#9b2c2c",
+      "secondary": "#0a0a0a",
+      "light": "#f7fafc",
+      "white": "#ffffff",
+      "gray": "#a0aec0",
+      "darkGray": "#4a5568"
     },
-    "description": {
-      "ar": "تجربة فاخرة في عالم السيارات. الجودة والتميز في كل تفصيل",
-      "en": "A luxurious experience in the world of cars. Quality and excellence in every detail"
-    },
-    "ctaButton": {
-      "ar": "استعرض السيارات",
-      "en": "Browse Cars"
-    },
-    "video": "logo2.mp4",
-    "loadingVideo": "logo.mp4"
+    "logo": "",
+    "favicon": ""
   },
   "contact": {
-    "phone": "+201234567890",
-    "whatsapp": "+201234567890",
-    "email": "info@abdallahcars.com",
+    "phone": "01012345678",
+    "whatsapp": "01012345678",
+    "email": "info@abdullahcars.com",
     "address": {
       "ar": "القاهرة، مصر",
       "en": "Cairo, Egypt"
     },
     "workingHours": {
-      "ar": "9 صباحاً - 10 مساءً",
-      "en": "9 AM - 10 PM"
+      "ar": "9 ص - 9 م",
+      "en": "9 AM - 9 PM"
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
     }
   },
-  "social": {
-    "facebook": "https://facebook.com/abdallahcars",
-    "instagram": "https://instagram.com/abdallahcars",
-    "tiktok": "https://tiktok.com/@abdallahcars",
-    "youtube": "https://youtube.com/abdallahcars"
-  },
   "admin": {
-    "secretToken": "2845",
     "telegramBotToken": "",
     "telegramChatId": "",
-    "encryptionKey": "secure_encryption_key_2024",
-    "users": [
-      {
-        "id": "admin_001",
-        "username": "admin",
-        "password": "2845",
-        "role": "super_admin",
-        "permissions": ["all"],
-        "createdAt": "2024-01-01T00:00:00.000Z"
-      }
-    ]
+    "security": {
+      "maxLoginAttempts": 3,
+      "sessionTimeout": 3600000
+    }
   },
-  "categories": [],
-  "products": [],
-  "orders": [],
-  "sellRequests": [],
-  "exchangeRequests": [],
   "system": {
     "lastSync": "",
-    "syncInterval": 300000,
-    "maxLoginAttempts": 3,
-    "sessionTimeout": 3600000,
-    "ipWhitelist": [],
-    "maintenanceMode": false,
-    "securityLevel": "high"
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "settings": {
+    "language": "ar",
+    "currency": "EGP",
+    "timezone": "Africa/Cairo",
+    "dateFormat": "DD/MM/YYYY",
+    "enableNotifications": true,
+    "enableTelegram": false
   }
 }
